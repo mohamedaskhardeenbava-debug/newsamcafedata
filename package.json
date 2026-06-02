@@ -2,8 +2,8 @@
   "name": "samcafe-db",
   "version": "1.0.0",
   "scripts": {
-    "start": "json-server db.json --host 0.0.0.0 --port ${PORT:-4000} --max-body-size 50mb"
-},
+    "start": "json-server db.json --host 0.0.0.0 --port 10000 --max-body-size 50mb"
+  },
   "dependencies": {
     "json-server": "^0.17.4"
   }
