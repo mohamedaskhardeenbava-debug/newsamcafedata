@@ -154978,7 +154978,7 @@
       "time": "20:17",
       "createdAt": "2026-06-08T14:47:28.702Z",
       "updatedAt": "2026-06-08T14:47:28.702Z",
-      "status": "placed",
+      "status": "preparing",
       "totalAmount": 722,
       "totalWithGST": {
         "subTotal": 722,
@@ -154994,7 +154994,7 @@
           "quantity": 1,
           "unitPrice": 249,
           "totalPrice": 249,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -155036,7 +155036,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T14:47:28.702Z"
+          "createdAt": "2026-06-08T14:47:28.702Z",
+          "pickupAt": null
         },
         {
           "dishId": "crispy_fried_chicken_breast",
@@ -155045,7 +155046,7 @@
           "quantity": 1,
           "unitPrice": 473,
           "totalPrice": 473,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "platter",
           "notes": "",
@@ -155089,7 +155090,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T14:47:28.702Z"
+          "createdAt": "2026-06-08T14:47:28.702Z",
+          "pickupAt": null
         }
       ]
     },
@@ -155101,7 +155103,7 @@
       "time": "22:43",
       "createdAt": "2026-06-08T17:13:56.110Z",
       "updatedAt": "2026-06-08T17:13:56.110Z",
-      "status": "placed",
+      "status": "preparing",
       "totalAmount": 478,
       "totalWithGST": {
         "subTotal": 478,
@@ -155117,7 +155119,7 @@
           "quantity": 1,
           "unitPrice": 199,
           "totalPrice": 199,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -155159,7 +155161,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:13:56.110Z"
+          "createdAt": "2026-06-08T17:13:56.110Z",
+          "pickupAt": null
         },
         {
           "dishId": "cheese_balls_corn",
@@ -155168,7 +155171,7 @@
           "quantity": 1,
           "unitPrice": 279,
           "totalPrice": 279,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "large",
           "notes": "",
@@ -155213,7 +155216,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:13:56.110Z"
+          "createdAt": "2026-06-08T17:13:56.110Z",
+          "pickupAt": null
         }
       ]
     },
@@ -155225,7 +155229,7 @@
       "time": "22:46",
       "createdAt": "2026-06-08T17:16:14.964Z",
       "updatedAt": "2026-06-08T17:16:14.964Z",
-      "status": "placed",
+      "status": "preparing",
       "totalAmount": 3288,
       "totalWithGST": {
         "subTotal": 3288,
@@ -155241,7 +155245,7 @@
           "quantity": 1,
           "unitPrice": 179,
           "totalPrice": 179,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -155283,7 +155287,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:16:14.964Z"
+          "createdAt": "2026-06-08T17:16:14.964Z",
+          "pickupAt": null
         },
         {
           "dishId": "paneer_burger",
@@ -155292,7 +155297,7 @@
           "quantity": 1,
           "unitPrice": 219,
           "totalPrice": 219,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -155334,7 +155339,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:16:14.964Z"
+          "createdAt": "2026-06-08T17:16:14.964Z",
+          "pickupAt": null
         },
         {
           "dishId": "classic_chicken_burger",
@@ -155343,7 +155349,7 @@
           "quantity": 1,
           "unitPrice": 249,
           "totalPrice": 249,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -155385,7 +155391,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:16:14.964Z"
+          "createdAt": "2026-06-08T17:16:14.964Z",
+          "pickupAt": null
         },
         {
           "dishId": "grilled_chicken_burger",
@@ -155394,7 +155401,7 @@
           "quantity": 1,
           "unitPrice": 269,
           "totalPrice": 269,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -155436,7 +155443,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:16:14.964Z"
+          "createdAt": "2026-06-08T17:16:14.964Z",
+          "pickupAt": null
         },
         {
           "dishId": "crispy_chicken_burger",
@@ -155445,7 +155453,7 @@
           "quantity": 1,
           "unitPrice": 269,
           "totalPrice": 269,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -155487,7 +155495,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:16:14.964Z"
+          "createdAt": "2026-06-08T17:16:14.964Z",
+          "pickupAt": null
         },
         {
           "dishId": "double_chicken_patty_burger",
@@ -155496,7 +155505,7 @@
           "quantity": 1,
           "unitPrice": 299,
           "totalPrice": 299,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -155538,7 +155547,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:16:14.964Z"
+          "createdAt": "2026-06-08T17:16:14.964Z",
+          "pickupAt": null
         },
         {
           "dishId": "double_chicken_double_cheese_burger",
@@ -155547,7 +155557,7 @@
           "quantity": 1,
           "unitPrice": 319,
           "totalPrice": 319,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -155589,7 +155599,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:16:14.964Z"
+          "createdAt": "2026-06-08T17:16:14.964Z",
+          "pickupAt": null
         },
         {
           "dishId": "fish_fillet_burger",
@@ -155598,7 +155609,7 @@
           "quantity": 1,
           "unitPrice": 339,
           "totalPrice": 339,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -155640,7 +155651,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:16:14.964Z"
+          "createdAt": "2026-06-08T17:16:14.964Z",
+          "pickupAt": null
         },
         {
           "dishId": "tower_chicken_burger",
@@ -155649,7 +155661,7 @@
           "quantity": 1,
           "unitPrice": 339,
           "totalPrice": 339,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -155691,7 +155703,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:16:14.964Z"
+          "createdAt": "2026-06-08T17:16:14.964Z",
+          "pickupAt": null
         },
         {
           "dishId": "chicken_tikka_burger",
@@ -155700,7 +155713,7 @@
           "quantity": 1,
           "unitPrice": 269,
           "totalPrice": 269,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -155742,7 +155755,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:16:14.964Z"
+          "createdAt": "2026-06-08T17:16:14.964Z",
+          "pickupAt": null
         },
         {
           "dishId": "peri_peri_chicken_burger",
@@ -155751,7 +155765,7 @@
           "quantity": 1,
           "unitPrice": 269,
           "totalPrice": 269,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -155793,7 +155807,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:16:14.964Z"
+          "createdAt": "2026-06-08T17:16:14.964Z",
+          "pickupAt": null
         },
         {
           "dishId": "bbq_chicken_burger",
@@ -155802,7 +155817,7 @@
           "quantity": 1,
           "unitPrice": 269,
           "totalPrice": 269,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -155844,7 +155859,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:16:14.964Z"
+          "createdAt": "2026-06-08T17:16:14.964Z",
+          "pickupAt": null
         }
       ]
     },
@@ -155856,7 +155872,7 @@
       "time": "22:48",
       "createdAt": "2026-06-08T17:18:28.405Z",
       "updatedAt": "2026-06-08T17:18:28.405Z",
-      "status": "placed",
+      "status": "preparing",
       "totalAmount": 3288,
       "totalWithGST": {
         "subTotal": 3288,
@@ -155872,7 +155888,7 @@
           "quantity": 1,
           "unitPrice": 179,
           "totalPrice": 179,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -155914,7 +155930,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:18:28.405Z"
+          "createdAt": "2026-06-08T17:18:28.405Z",
+          "pickupAt": null
         },
         {
           "dishId": "paneer_burger",
@@ -155923,7 +155940,7 @@
           "quantity": 1,
           "unitPrice": 219,
           "totalPrice": 219,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -155965,7 +155982,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:18:28.405Z"
+          "createdAt": "2026-06-08T17:18:28.405Z",
+          "pickupAt": null
         },
         {
           "dishId": "classic_chicken_burger",
@@ -155974,7 +155992,7 @@
           "quantity": 1,
           "unitPrice": 249,
           "totalPrice": 249,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -156016,7 +156034,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:18:28.405Z"
+          "createdAt": "2026-06-08T17:18:28.405Z",
+          "pickupAt": null
         },
         {
           "dishId": "grilled_chicken_burger",
@@ -156025,7 +156044,7 @@
           "quantity": 1,
           "unitPrice": 269,
           "totalPrice": 269,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -156067,7 +156086,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:18:28.405Z"
+          "createdAt": "2026-06-08T17:18:28.405Z",
+          "pickupAt": null
         },
         {
           "dishId": "crispy_chicken_burger",
@@ -156076,7 +156096,7 @@
           "quantity": 1,
           "unitPrice": 269,
           "totalPrice": 269,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -156118,7 +156138,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:18:28.405Z"
+          "createdAt": "2026-06-08T17:18:28.405Z",
+          "pickupAt": null
         },
         {
           "dishId": "fish_fillet_burger",
@@ -156127,7 +156148,7 @@
           "quantity": 1,
           "unitPrice": 339,
           "totalPrice": 339,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -156169,7 +156190,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:18:28.405Z"
+          "createdAt": "2026-06-08T17:18:28.405Z",
+          "pickupAt": null
         },
         {
           "dishId": "tower_chicken_burger",
@@ -156178,7 +156200,7 @@
           "quantity": 1,
           "unitPrice": 339,
           "totalPrice": 339,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -156220,7 +156242,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:18:28.405Z"
+          "createdAt": "2026-06-08T17:18:28.405Z",
+          "pickupAt": null
         },
         {
           "dishId": "chicken_tikka_burger",
@@ -156229,7 +156252,7 @@
           "quantity": 1,
           "unitPrice": 269,
           "totalPrice": 269,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -156271,7 +156294,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:18:28.405Z"
+          "createdAt": "2026-06-08T17:18:28.405Z",
+          "pickupAt": null
         },
         {
           "dishId": "peri_peri_chicken_burger",
@@ -156280,7 +156304,7 @@
           "quantity": 1,
           "unitPrice": 269,
           "totalPrice": 269,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -156322,7 +156346,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:18:28.405Z"
+          "createdAt": "2026-06-08T17:18:28.405Z",
+          "pickupAt": null
         },
         {
           "dishId": "bbq_chicken_burger",
@@ -156331,7 +156356,7 @@
           "quantity": 1,
           "unitPrice": 269,
           "totalPrice": 269,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -156373,7 +156398,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:18:28.405Z"
+          "createdAt": "2026-06-08T17:18:28.405Z",
+          "pickupAt": null
         },
         {
           "dishId": "double_chicken_patty_burger",
@@ -156382,7 +156408,7 @@
           "quantity": 1,
           "unitPrice": 299,
           "totalPrice": 299,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -156424,7 +156450,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:18:28.405Z"
+          "createdAt": "2026-06-08T17:18:28.405Z",
+          "pickupAt": null
         },
         {
           "dishId": "double_chicken_double_cheese_burger",
@@ -156433,7 +156460,7 @@
           "quantity": 1,
           "unitPrice": 319,
           "totalPrice": 319,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -156475,7 +156502,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:18:28.405Z"
+          "createdAt": "2026-06-08T17:18:28.405Z",
+          "pickupAt": null
         }
       ]
     },
@@ -156487,7 +156515,7 @@
       "time": "22:50",
       "createdAt": "2026-06-08T17:20:01.293Z",
       "updatedAt": "2026-06-08T17:20:01.293Z",
-      "status": "placed",
+      "status": "preparing",
       "totalAmount": 2670,
       "totalWithGST": {
         "subTotal": 2670,
@@ -156503,7 +156531,7 @@
           "quantity": 1,
           "unitPrice": 179,
           "totalPrice": 179,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -156545,7 +156573,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:20:01.293Z"
+          "createdAt": "2026-06-08T17:20:01.293Z",
+          "pickupAt": null
         },
         {
           "dishId": "paneer_burger",
@@ -156554,7 +156583,7 @@
           "quantity": 1,
           "unitPrice": 219,
           "totalPrice": 219,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -156596,7 +156625,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:20:01.293Z"
+          "createdAt": "2026-06-08T17:20:01.293Z",
+          "pickupAt": null
         },
         {
           "dishId": "classic_chicken_burger",
@@ -156605,7 +156635,7 @@
           "quantity": 1,
           "unitPrice": 249,
           "totalPrice": 249,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -156647,7 +156677,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:20:01.293Z"
+          "createdAt": "2026-06-08T17:20:01.293Z",
+          "pickupAt": null
         },
         {
           "dishId": "grilled_chicken_burger",
@@ -156656,7 +156687,7 @@
           "quantity": 1,
           "unitPrice": 269,
           "totalPrice": 269,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -156698,7 +156729,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:20:01.293Z"
+          "createdAt": "2026-06-08T17:20:01.293Z",
+          "pickupAt": null
         },
         {
           "dishId": "crispy_chicken_burger",
@@ -156707,7 +156739,7 @@
           "quantity": 1,
           "unitPrice": 269,
           "totalPrice": 269,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -156749,7 +156781,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:20:01.293Z"
+          "createdAt": "2026-06-08T17:20:01.293Z",
+          "pickupAt": null
         },
         {
           "dishId": "fish_fillet_burger",
@@ -156758,7 +156791,7 @@
           "quantity": 1,
           "unitPrice": 339,
           "totalPrice": 339,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -156800,7 +156833,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:20:01.293Z"
+          "createdAt": "2026-06-08T17:20:01.293Z",
+          "pickupAt": null
         },
         {
           "dishId": "tower_chicken_burger",
@@ -156809,7 +156843,7 @@
           "quantity": 1,
           "unitPrice": 339,
           "totalPrice": 339,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -156851,7 +156885,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:20:01.293Z"
+          "createdAt": "2026-06-08T17:20:01.293Z",
+          "pickupAt": null
         },
         {
           "dishId": "chicken_tikka_burger",
@@ -156860,7 +156895,7 @@
           "quantity": 1,
           "unitPrice": 269,
           "totalPrice": 269,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -156902,7 +156937,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:20:01.293Z"
+          "createdAt": "2026-06-08T17:20:01.293Z",
+          "pickupAt": null
         },
         {
           "dishId": "peri_peri_chicken_burger",
@@ -156911,7 +156947,7 @@
           "quantity": 1,
           "unitPrice": 269,
           "totalPrice": 269,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -156953,7 +156989,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:20:01.293Z"
+          "createdAt": "2026-06-08T17:20:01.293Z",
+          "pickupAt": null
         },
         {
           "dishId": "bbq_chicken_burger",
@@ -156962,7 +156999,7 @@
           "quantity": 1,
           "unitPrice": 269,
           "totalPrice": 269,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "single",
           "notes": "",
@@ -157004,7 +157041,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:20:01.293Z"
+          "createdAt": "2026-06-08T17:20:01.293Z",
+          "pickupAt": null
         }
       ]
     },
@@ -157016,7 +157054,7 @@
       "time": "23:21",
       "createdAt": "2026-06-08T17:51:48.067Z",
       "updatedAt": "2026-06-08T17:51:48.067Z",
-      "status": "placed",
+      "status": "preparing",
       "totalAmount": 3946,
       "totalWithGST": {
         "subTotal": 3946,
@@ -157032,7 +157070,7 @@
           "quantity": 1,
           "unitPrice": 109,
           "totalPrice": 109,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157074,7 +157112,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:51:48.067Z"
+          "createdAt": "2026-06-08T17:51:48.067Z",
+          "pickupAt": null
         },
         {
           "dishId": "corn_and_cheese_pizza",
@@ -157083,7 +157122,7 @@
           "quantity": 1,
           "unitPrice": 129,
           "totalPrice": 129,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157125,7 +157164,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:51:48.067Z"
+          "createdAt": "2026-06-08T17:51:48.067Z",
+          "pickupAt": null
         },
         {
           "dishId": "garden_fresh_pizza",
@@ -157134,7 +157174,7 @@
           "quantity": 1,
           "unitPrice": 199,
           "totalPrice": 199,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157176,7 +157216,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:51:48.067Z"
+          "createdAt": "2026-06-08T17:51:48.067Z",
+          "pickupAt": null
         },
         {
           "dishId": "triple_cheese_pizza",
@@ -157185,7 +157226,7 @@
           "quantity": 1,
           "unitPrice": 199,
           "totalPrice": 199,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157227,7 +157268,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:51:48.067Z"
+          "createdAt": "2026-06-08T17:51:48.067Z",
+          "pickupAt": null
         },
         {
           "dishId": "mushroom_white_sauce_pizza",
@@ -157236,7 +157278,7 @@
           "quantity": 1,
           "unitPrice": 249,
           "totalPrice": 249,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157278,7 +157320,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:51:48.067Z"
+          "createdAt": "2026-06-08T17:51:48.067Z",
+          "pickupAt": null
         },
         {
           "dishId": "meat_lovers_pizza",
@@ -157287,7 +157330,7 @@
           "quantity": 1,
           "unitPrice": 359,
           "totalPrice": 359,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157329,7 +157372,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:51:48.067Z"
+          "createdAt": "2026-06-08T17:51:48.067Z",
+          "pickupAt": null
         },
         {
           "dishId": "ultimate_chicken_pizza",
@@ -157338,7 +157382,7 @@
           "quantity": 1,
           "unitPrice": 359,
           "totalPrice": 359,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157380,7 +157424,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:51:48.067Z"
+          "createdAt": "2026-06-08T17:51:48.067Z",
+          "pickupAt": null
         },
         {
           "dishId": "buffalo_chicken_pizza",
@@ -157389,7 +157434,7 @@
           "quantity": 1,
           "unitPrice": 329,
           "totalPrice": 329,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157431,7 +157476,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:51:48.067Z"
+          "createdAt": "2026-06-08T17:51:48.067Z",
+          "pickupAt": null
         },
         {
           "dishId": "peri_peri_chicken_pizza",
@@ -157440,7 +157486,7 @@
           "quantity": 1,
           "unitPrice": 329,
           "totalPrice": 329,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157482,7 +157528,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:51:48.067Z"
+          "createdAt": "2026-06-08T17:51:48.067Z",
+          "pickupAt": null
         },
         {
           "dishId": "bbq_chicken_pizza",
@@ -157491,7 +157538,7 @@
           "quantity": 1,
           "unitPrice": 329,
           "totalPrice": 329,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157533,7 +157580,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:51:48.067Z"
+          "createdAt": "2026-06-08T17:51:48.067Z",
+          "pickupAt": null
         },
         {
           "dishId": "paneer_tikka_pizza",
@@ -157542,7 +157590,7 @@
           "quantity": 1,
           "unitPrice": 309,
           "totalPrice": 309,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157584,7 +157632,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:51:48.067Z"
+          "createdAt": "2026-06-08T17:51:48.067Z",
+          "pickupAt": null
         },
         {
           "dishId": "chicken_tikka_pizza",
@@ -157593,7 +157642,7 @@
           "quantity": 1,
           "unitPrice": 329,
           "totalPrice": 329,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157635,7 +157684,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:51:48.067Z"
+          "createdAt": "2026-06-08T17:51:48.067Z",
+          "pickupAt": null
         },
         {
           "dishId": "chicken_salami_pizza",
@@ -157644,7 +157694,7 @@
           "quantity": 2,
           "unitPrice": 359,
           "totalPrice": 718,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157686,7 +157736,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:51:48.067Z"
+          "createdAt": "2026-06-08T17:51:48.067Z",
+          "pickupAt": null
         }
       ]
     },
@@ -157698,7 +157749,7 @@
       "time": "23:23",
       "createdAt": "2026-06-08T17:53:05.491Z",
       "updatedAt": "2026-06-08T17:53:05.491Z",
-      "status": "placed",
+      "status": "preparing",
       "totalAmount": 2850,
       "totalWithGST": {
         "subTotal": 2850,
@@ -157714,7 +157765,7 @@
           "quantity": 1,
           "unitPrice": 249,
           "totalPrice": 249,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157738,7 +157789,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:53:05.491Z"
+          "createdAt": "2026-06-08T17:53:05.491Z",
+          "pickupAt": null
         },
         {
           "dishId": "lasagne",
@@ -157747,7 +157799,7 @@
           "quantity": 1,
           "unitPrice": 329,
           "totalPrice": 329,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157771,7 +157823,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:53:05.491Z"
+          "createdAt": "2026-06-08T17:53:05.491Z",
+          "pickupAt": null
         },
         {
           "dishId": "mac_n_cheese",
@@ -157780,7 +157833,7 @@
           "quantity": 1,
           "unitPrice": 299,
           "totalPrice": 299,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157804,7 +157857,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:53:05.491Z"
+          "createdAt": "2026-06-08T17:53:05.491Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_alfredo",
@@ -157813,7 +157867,7 @@
           "quantity": 1,
           "unitPrice": 279,
           "totalPrice": 279,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157837,7 +157891,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:53:05.491Z"
+          "createdAt": "2026-06-08T17:53:05.491Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_florentine",
@@ -157846,7 +157901,7 @@
           "quantity": 1,
           "unitPrice": 279,
           "totalPrice": 279,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157870,7 +157925,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:53:05.491Z"
+          "createdAt": "2026-06-08T17:53:05.491Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_arrabiata",
@@ -157879,7 +157935,7 @@
           "quantity": 1,
           "unitPrice": 279,
           "totalPrice": 279,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157903,7 +157959,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:53:05.491Z"
+          "createdAt": "2026-06-08T17:53:05.491Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_napolitan",
@@ -157912,7 +157969,7 @@
           "quantity": 1,
           "unitPrice": 279,
           "totalPrice": 279,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157936,7 +157993,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:53:05.491Z"
+          "createdAt": "2026-06-08T17:53:05.491Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_al_forno",
@@ -157945,7 +158003,7 @@
           "quantity": 1,
           "unitPrice": 299,
           "totalPrice": 299,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -157969,7 +158027,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:53:05.491Z"
+          "createdAt": "2026-06-08T17:53:05.491Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_alla_funghi",
@@ -157978,7 +158037,7 @@
           "quantity": 1,
           "unitPrice": 279,
           "totalPrice": 279,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158002,7 +158061,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:53:05.491Z"
+          "createdAt": "2026-06-08T17:53:05.491Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_alla_rosa",
@@ -158011,7 +158071,7 @@
           "quantity": 1,
           "unitPrice": 279,
           "totalPrice": 279,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158035,7 +158095,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:53:05.491Z"
+          "createdAt": "2026-06-08T17:53:05.491Z",
+          "pickupAt": null
         }
       ]
     },
@@ -158047,7 +158108,7 @@
       "time": "23:24",
       "createdAt": "2026-06-08T17:54:34.720Z",
       "updatedAt": "2026-06-08T17:54:34.720Z",
-      "status": "placed",
+      "status": "preparing",
       "totalAmount": 2850,
       "totalWithGST": {
         "subTotal": 2850,
@@ -158063,7 +158124,7 @@
           "quantity": 1,
           "unitPrice": 249,
           "totalPrice": 249,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158087,7 +158148,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:54:34.720Z"
+          "createdAt": "2026-06-08T17:54:34.720Z",
+          "pickupAt": null
         },
         {
           "dishId": "lasagne",
@@ -158096,7 +158158,7 @@
           "quantity": 1,
           "unitPrice": 329,
           "totalPrice": 329,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158120,7 +158182,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:54:34.720Z"
+          "createdAt": "2026-06-08T17:54:34.720Z",
+          "pickupAt": null
         },
         {
           "dishId": "mac_n_cheese",
@@ -158129,7 +158192,7 @@
           "quantity": 1,
           "unitPrice": 299,
           "totalPrice": 299,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158153,7 +158216,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:54:34.720Z"
+          "createdAt": "2026-06-08T17:54:34.720Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_alfredo",
@@ -158162,7 +158226,7 @@
           "quantity": 1,
           "unitPrice": 279,
           "totalPrice": 279,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158186,7 +158250,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:54:34.720Z"
+          "createdAt": "2026-06-08T17:54:34.720Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_florentine",
@@ -158195,7 +158260,7 @@
           "quantity": 1,
           "unitPrice": 279,
           "totalPrice": 279,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158219,7 +158284,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:54:34.720Z"
+          "createdAt": "2026-06-08T17:54:34.720Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_arrabiata",
@@ -158228,7 +158294,7 @@
           "quantity": 1,
           "unitPrice": 279,
           "totalPrice": 279,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158252,7 +158318,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:54:34.720Z"
+          "createdAt": "2026-06-08T17:54:34.720Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_napolitan",
@@ -158261,7 +158328,7 @@
           "quantity": 1,
           "unitPrice": 279,
           "totalPrice": 279,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158285,7 +158352,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:54:34.720Z"
+          "createdAt": "2026-06-08T17:54:34.720Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_alla_rosa",
@@ -158294,7 +158362,7 @@
           "quantity": 1,
           "unitPrice": 279,
           "totalPrice": 279,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158318,7 +158386,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:54:34.720Z"
+          "createdAt": "2026-06-08T17:54:34.720Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_al_forno",
@@ -158327,7 +158396,7 @@
           "quantity": 1,
           "unitPrice": 299,
           "totalPrice": 299,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158351,7 +158420,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:54:34.720Z"
+          "createdAt": "2026-06-08T17:54:34.720Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_alla_funghi",
@@ -158360,7 +158430,7 @@
           "quantity": 1,
           "unitPrice": 279,
           "totalPrice": 279,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158384,7 +158454,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T17:54:34.720Z"
+          "createdAt": "2026-06-08T17:54:34.720Z",
+          "pickupAt": null
         }
       ]
     },
@@ -158396,7 +158467,7 @@
       "time": "23:30",
       "createdAt": "2026-06-08T18:00:41.035Z",
       "updatedAt": "2026-06-08T18:00:41.035Z",
-      "status": "placed",
+      "status": "preparing",
       "totalAmount": 2850,
       "totalWithGST": {
         "subTotal": 2850,
@@ -158412,7 +158483,7 @@
           "quantity": 1,
           "unitPrice": 249,
           "totalPrice": 249,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158436,7 +158507,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T18:00:41.035Z"
+          "createdAt": "2026-06-08T18:00:41.035Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_alla_rosa",
@@ -158445,7 +158517,7 @@
           "quantity": 1,
           "unitPrice": 279,
           "totalPrice": 279,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158469,7 +158541,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T18:00:41.035Z"
+          "createdAt": "2026-06-08T18:00:41.035Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_alla_funghi",
@@ -158478,7 +158551,7 @@
           "quantity": 1,
           "unitPrice": 279,
           "totalPrice": 279,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158502,7 +158575,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T18:00:41.035Z"
+          "createdAt": "2026-06-08T18:00:41.035Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_al_forno",
@@ -158511,7 +158585,7 @@
           "quantity": 1,
           "unitPrice": 299,
           "totalPrice": 299,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158535,7 +158609,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T18:00:41.035Z"
+          "createdAt": "2026-06-08T18:00:41.035Z",
+          "pickupAt": null
         },
         {
           "dishId": "lasagne",
@@ -158544,7 +158619,7 @@
           "quantity": 1,
           "unitPrice": 329,
           "totalPrice": 329,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158568,7 +158643,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T18:00:41.035Z"
+          "createdAt": "2026-06-08T18:00:41.035Z",
+          "pickupAt": null
         },
         {
           "dishId": "mac_n_cheese",
@@ -158577,7 +158653,7 @@
           "quantity": 1,
           "unitPrice": 299,
           "totalPrice": 299,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158601,7 +158677,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T18:00:41.035Z"
+          "createdAt": "2026-06-08T18:00:41.035Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_alfredo",
@@ -158610,7 +158687,7 @@
           "quantity": 1,
           "unitPrice": 279,
           "totalPrice": 279,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158634,7 +158711,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T18:00:41.035Z"
+          "createdAt": "2026-06-08T18:00:41.035Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_florentine",
@@ -158643,7 +158721,7 @@
           "quantity": 1,
           "unitPrice": 279,
           "totalPrice": 279,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158667,7 +158745,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T18:00:41.035Z"
+          "createdAt": "2026-06-08T18:00:41.035Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_arrabiata",
@@ -158676,7 +158755,7 @@
           "quantity": 1,
           "unitPrice": 279,
           "totalPrice": 279,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158700,7 +158779,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T18:00:41.035Z"
+          "createdAt": "2026-06-08T18:00:41.035Z",
+          "pickupAt": null
         },
         {
           "dishId": "pasta_napolitan",
@@ -158709,7 +158789,7 @@
           "quantity": 1,
           "unitPrice": 279,
           "totalPrice": 279,
-          "status": "placed",
+          "status": "preparing",
           "isCustomized": false,
           "selectedSize": "regular",
           "notes": "",
@@ -158733,7 +158813,8 @@
               "totalPrice": 0
             }
           ],
-          "createdAt": "2026-06-08T18:00:41.035Z"
+          "createdAt": "2026-06-08T18:00:41.035Z",
+          "pickupAt": null
         }
       ]
     }
@@ -159277,6 +159358,21 @@
         },
         {
           "date": "2026-06-07",
+          "status": "absent",
+          "reason": "Auto-marked absent"
+        },
+        {
+          "date": "2026-06-10",
+          "status": "present",
+          "reason": ""
+        },
+        {
+          "date": "2026-06-11",
+          "status": "unmarked",
+          "reason": ""
+        },
+        {
+          "date": "2026-06-09",
           "status": "absent",
           "reason": "Auto-marked absent"
         }
@@ -159826,6 +159922,21 @@
           "date": "2026-06-07",
           "status": "absent",
           "reason": "Auto-marked absent"
+        },
+        {
+          "date": "2026-06-10",
+          "status": "present",
+          "reason": ""
+        },
+        {
+          "date": "2026-06-11",
+          "status": "unmarked",
+          "reason": ""
+        },
+        {
+          "date": "2026-06-09",
+          "status": "absent",
+          "reason": "Auto-marked absent"
         }
       ]
     },
@@ -160361,6 +160472,21 @@
         },
         {
           "date": "2026-06-07",
+          "status": "absent",
+          "reason": "Auto-marked absent"
+        },
+        {
+          "date": "2026-06-10",
+          "status": "unmarked",
+          "reason": ""
+        },
+        {
+          "date": "2026-06-11",
+          "status": "unmarked",
+          "reason": ""
+        },
+        {
+          "date": "2026-06-09",
           "status": "absent",
           "reason": "Auto-marked absent"
         }
@@ -160909,6 +161035,21 @@
           "date": "2026-06-07",
           "status": "absent",
           "reason": "Auto-marked absent"
+        },
+        {
+          "date": "2026-06-10",
+          "status": "unmarked",
+          "reason": ""
+        },
+        {
+          "date": "2026-06-11",
+          "status": "unmarked",
+          "reason": ""
+        },
+        {
+          "date": "2026-06-09",
+          "status": "absent",
+          "reason": "Auto-marked absent"
         }
       ]
     },
@@ -161446,6 +161587,21 @@
           "date": "2026-06-07",
           "status": "absent",
           "reason": "Auto-marked absent"
+        },
+        {
+          "date": "2026-06-10",
+          "status": "unmarked",
+          "reason": ""
+        },
+        {
+          "date": "2026-06-11",
+          "status": "unmarked",
+          "reason": ""
+        },
+        {
+          "date": "2026-06-09",
+          "status": "absent",
+          "reason": "Auto-marked absent"
         }
       ]
     }
@@ -161481,6 +161637,11 @@
       "id": "1773855614219",
       "date": "2026-03-13",
       "reason": "aaa"
+    },
+    {
+      "date": "2026-06-07",
+      "reason": "Weekend",
+      "id": "NYXEbfd"
     }
   ],
   "grooming": {
@@ -166992,6 +167153,48 @@
         "staff": "Meena",
         "assignedAt": "9:26:15 AM"
       }
+    },
+    "2026-06-12": {
+      "Arrangement": {
+        "staff": "Karthik",
+        "assignedAt": "10:33:36 AM"
+      },
+      "Organize": {
+        "staff": "Siva",
+        "assignedAt": "10:33:38 AM"
+      },
+      "Veg Cutting": {
+        "staff": "Priya",
+        "assignedAt": "10:33:39 AM"
+      },
+      "Meat Cutting": {
+        "staff": "Rahul",
+        "assignedAt": "10:33:42 AM"
+      },
+      "Floor": {
+        "staff": "Meena",
+        "assignedAt": "10:33:45 AM"
+      },
+      "Working Table": {
+        "staff": "Karthik",
+        "assignedAt": "10:33:46 AM"
+      },
+      "Sink": {
+        "staff": "Siva",
+        "assignedAt": "10:33:48 AM"
+      },
+      "Vessel": {
+        "staff": "Priya",
+        "assignedAt": "10:33:50 AM"
+      },
+      "Range": {
+        "staff": "Rahul",
+        "assignedAt": "10:33:56 AM"
+      },
+      "Refrigerator": {
+        "staff": "Meena",
+        "assignedAt": "10:33:59 AM"
+      }
     }
   },
   "recipes": [
@@ -170449,6 +170652,52 @@
       "Clothes & Laundry": {
         "staff": "Siva",
         "assignedAt": "5:05:46 PM"
+      }
+    },
+    "2026-06-12": {
+      "Table Setup": {
+        "staff": "Karthik",
+        "assignedAt": "10:32:58 AM"
+      },
+      "Cutlery Setup": {
+        "staff": "Siva",
+        "assignedAt": "10:32:59 AM"
+      },
+      "Water Filling": {
+        "staff": "Priya",
+        "assignedAt": "10:33:01 AM"
+      },
+      "Cash Counter": {
+        "staff": "Rahul",
+        "assignedAt": "10:33:04 AM"
+      },
+      "Floor": {
+        "staff": "Meena",
+        "assignedAt": "10:33:08 AM"
+      },
+      "Table": {
+        "staff": "Karthik",
+        "assignedAt": "10:33:11 AM"
+      },
+      "Sink": {
+        "staff": "Siva",
+        "assignedAt": "10:33:12 AM"
+      },
+      "Cutlery & Crockery": {
+        "staff": "Priya",
+        "assignedAt": "10:33:17 AM"
+      },
+      "Equipment": {
+        "staff": "Rahul",
+        "assignedAt": "10:33:20 AM"
+      },
+      "Refrigerator": {
+        "staff": "Karthik",
+        "assignedAt": "10:33:23 AM"
+      },
+      "Clothes & Laundry": {
+        "staff": "Siva",
+        "assignedAt": "10:33:27 AM"
       }
     }
   },
@@ -176529,6 +176778,41 @@
         "verified": true,
         "time": "9:25:43 AM"
       }
+    },
+    "2026-06-12": {
+      "Table Setup": {
+        "staff": "Karthik"
+      },
+      "Cutlery Setup": {
+        "staff": "Siva"
+      },
+      "Water Filling": {
+        "staff": "Priya"
+      },
+      "Cash Counter": {
+        "staff": "Rahul"
+      },
+      "Floor": {
+        "staff": "Meena"
+      },
+      "Table": {
+        "staff": "Karthik"
+      },
+      "Sink": {
+        "staff": "Siva"
+      },
+      "Cutlery & Crockery": {
+        "staff": "Priya"
+      },
+      "Equipment": {
+        "staff": "Rahul"
+      },
+      "Refrigerator": {
+        "staff": "Karthik"
+      },
+      "Clothes & Laundry": {
+        "staff": "Siva"
+      }
     }
   },
   "offers": [],
@@ -176592,6 +176876,61 @@
       "reservedDate": "2026-06-09",
       "createdAt": "2026-06-09T04:43:18.676Z",
       "tablePrefImage": null
+    },
+    {
+      "id": "res_1780983266146",
+      "name": "Meena",
+      "mobile": "8864539999",
+      "email": "",
+      "guests": 2,
+      "date": "2026-06-09",
+      "time": "11:30",
+      "slotGroup": "BR",
+      "tableNo": "",
+      "tablePref": "Any",
+      "source": "Phone",
+      "inchargePerson": "Siva",
+      "notes": "",
+      "status": "confirmed",
+      "bookedDate": "2026-06-09",
+      "reservedDate": "2026-06-09",
+      "createdAt": "2026-06-09T05:34:26.146Z",
+      "tablePrefImage": null
+    },
+    {
+      "id": "res_1781150541119",
+      "name": "Frank",
+      "mobile": "9965650011",
+      "email": "",
+      "guests": 2,
+      "date": "2026-06-11",
+      "time": "20:00",
+      "slotGroup": "DI",
+      "tableNo": 1,
+      "tablePref": "Any",
+      "source": "Phone",
+      "inchargePerson": "Siva",
+      "notes": "",
+      "status": "pending",
+      "bookedDate": "2026-06-11",
+      "reservedDate": "2026-06-11",
+      "createdAt": "2026-06-11T04:02:21.119Z",
+      "tablePrefImage": null
+    },
+    {
+      "id": "res_1781158570228",
+      "name": "Raju",
+      "mobile": "9564552811",
+      "email": "",
+      "guests": 2,
+      "slotGroup": "DI",
+      "time": "21:45",
+      "date": "2026-06-12",
+      "tablePref": "Window",
+      "notes": "",
+      "status": "pending",
+      "source": "User App",
+      "createdAt": "2026-06-11T06:16:10.228Z"
     }
   ],
   "celebrations": [
@@ -176654,6 +176993,36 @@
       "status": "pending",
       "totalAmount": 3800,
       "createdAt": "2026-06-09T04:10:17.486Z"
+    },
+    {
+      "id": "cele_1781150593063",
+      "type": "anniversary",
+      "name": "Mohamed",
+      "mobile": "9899555454",
+      "email": "",
+      "date": "2026-06-12",
+      "time": "13:00",
+      "slotGroup": "LU",
+      "guests": 2,
+      "birthdayPersonName": "",
+      "birthdayPersonAge": "",
+      "cake": false,
+      "specialMention": false,
+      "specialMentionText": "",
+      "standingBrochures": false,
+      "placeHolders": false,
+      "pens": false,
+      "mic": false,
+      "projector": false,
+      "candleLight": false,
+      "liveMusic": false,
+      "surpriseGift": false,
+      "decoration": null,
+      "specialNote": "",
+      "source": "User App",
+      "status": "pending",
+      "totalAmount": 0,
+      "createdAt": "2026-06-11T04:03:13.063Z"
     }
   ],
   "preBookings": [
@@ -177237,6 +177606,122 @@
         "2026-06-09T04:48:36.308Z",
         "2026-06-09T04:48:38.244Z"
       ]
+    },
+    {
+      "id": "pre_1781150634751",
+      "name": "Selvam",
+      "mobile": "8876545999",
+      "email": "",
+      "guests": 3,
+      "date": "2026-06-11",
+      "time": "16:30",
+      "slotGroup": "HT",
+      "notes": "",
+      "source": "Phone",
+      "items": [
+        {
+          "id": "paneer_65",
+          "name": "Paneer 65",
+          "image": "/assets/dish-assets/veg-starters/paneer-65.png",
+          "basePrice": 179,
+          "description": "Bold, spicy flavor and crispy texture of the famous Indian appetizer",
+          "benefits": {
+            "calories": 450,
+            "protein": 16,
+            "fibre": 2,
+            "fat": 22
+          },
+          "ingredients": [
+            {
+              "name": "Paneer",
+              "quantity": 40
+            },
+            {
+              "name": "Chilli Powder",
+              "quantity": 10
+            },
+            {
+              "name": "Garlic",
+              "quantity": 10
+            },
+            {
+              "name": "Corn Flour",
+              "quantity": 20
+            },
+            {
+              "name": "Curry Leaves",
+              "quantity": 5
+            },
+            {
+              "name": "Oil",
+              "quantity": 30
+            }
+          ],
+          "history": "Paneer 65 originated as a vegetarian twist of the popular South Indian starter.",
+          "isVeg": true,
+          "isEventFood": false,
+          "price": 179,
+          "categoryId": "veg_starters",
+          "category": "Veg Starters",
+          "unitPrice": 179,
+          "totalPrice": 537
+        },
+        {
+          "id": "mushroom_tikka",
+          "name": "Mushroom Tikka",
+          "image": "/assets/dish-assets/veg-starters/mushroom-tikka.png",
+          "basePrice": 249,
+          "description": "The marinade is packed with flavour which soaks right into the tikka",
+          "benefits": {
+            "calories": 380,
+            "protein": 12,
+            "fibre": 4,
+            "fat": 16
+          },
+          "ingredients": [
+            {
+              "name": "Mushroom",
+              "quantity": 40
+            },
+            {
+              "name": "Yogurt",
+              "quantity": 30
+            },
+            {
+              "name": "Garam Masala",
+              "quantity": 10
+            },
+            {
+              "name": "Capsicum",
+              "quantity": 20
+            },
+            {
+              "name": "Onion",
+              "quantity": 20
+            },
+            {
+              "name": "Oil",
+              "quantity": 20
+            }
+          ],
+          "history": "Mushroom tikka is a grilled vegetarian delicacy inspired by tandoori cooking.",
+          "isVeg": true,
+          "isEventFood": false,
+          "price": 249,
+          "categoryId": "veg_starters",
+          "category": "Veg Starters",
+          "unitPrice": 249,
+          "totalPrice": 747
+        }
+      ],
+      "subtotal": 1284,
+      "discount": 0,
+      "totalAmount": 1284,
+      "status": "pending",
+      "createdAt": "2026-06-11T04:03:54.751Z",
+      "callHistory": [
+        "2026-06-11T05:09:53.657Z"
+      ]
     }
   ],
   "cateringOrders": [
@@ -177421,6 +177906,326 @@
       "decorTotal": 1500,
       "totalAmount": 7370,
       "createdAt": "2026-06-09T04:55:16.621Z"
+    },
+    {
+      "id": "cat_1781150713487",
+      "name": "Madhan",
+      "mobile": "8877676755",
+      "email": "",
+      "guests": 10,
+      "eventDate": "2026-06-12",
+      "time": "16:30",
+      "slotGroup": "HT",
+      "addrDoorNo": "12, Sam Cafe",
+      "addrStreet": "GR Nagar",
+      "addrArea": "GR Nagar",
+      "addrLandmark": "Near Andavar Meat Shop",
+      "addrCity": "Madurai",
+      "addrDistrict": "Madurai",
+      "addrState": "Tamil Nadu",
+      "addrPincode": "625001",
+      "location": "12, Sam Cafe, GR Nagar, GR Nagar, Near Andavar Meat Shop, Madurai, Madurai, Tamil Nadu, 625001",
+      "notes": "",
+      "decoration": "luxury",
+      "cake": false,
+      "specialMention": false,
+      "specialMentionText": "",
+      "mic": false,
+      "projector": false,
+      "music": false,
+      "speaker": false,
+      "liveMusic": false,
+      "surpriseGift": false,
+      "specialNote": "",
+      "source": "Phone",
+      "status": "pending",
+      "date": "2026-06-12",
+      "items": [
+        {
+          "id": "cheese_loaded_potato",
+          "name": "Cheese Loaded Potato",
+          "image": "/assets/dish-assets/veg-starters/cheese-loaded-potato.png",
+          "basePrice": 179,
+          "description": "Crunchy outside, soft inside, loaded with melted cheese",
+          "benefits": {
+            "calories": 420,
+            "protein": 8,
+            "fibre": 4,
+            "fat": 17
+          },
+          "ingredients": [
+            {
+              "name": "Potato",
+              "quantity": 50
+            },
+            {
+              "name": "Cheese",
+              "quantity": 30
+            },
+            {
+              "name": "Butter",
+              "quantity": 20
+            },
+            {
+              "name": "Pepper",
+              "quantity": 10
+            },
+            {
+              "name": "Salt",
+              "quantity": 10
+            },
+            {
+              "name": "Herbs",
+              "quantity": 10
+            }
+          ],
+          "history": "Cheese loaded potatoes are inspired by baked potato dishes.",
+          "isVeg": true,
+          "isEventFood": true,
+          "price": 179,
+          "categoryId": "veg_starters",
+          "category": "Veg Starters",
+          "unitPrice": 179,
+          "totalPrice": 1790
+        },
+        {
+          "id": "veg_quesadilla",
+          "name": "Veg Quesadilla",
+          "image": "/assets/dish-assets/veg-starters/veg-quesadilla.png",
+          "basePrice": 179,
+          "description": "Tex-Mex style tortilla filled with cheese and mexican vegetables",
+          "benefits": {
+            "calories": 420,
+            "protein": 11,
+            "fibre": 4,
+            "fat": 16
+          },
+          "ingredients": [
+            {
+              "name": "Tortilla",
+              "quantity": 40
+            },
+            {
+              "name": "Cheese",
+              "quantity": 30
+            },
+            {
+              "name": "Capsicum",
+              "quantity": 20
+            },
+            {
+              "name": "Onion",
+              "quantity": 20
+            },
+            {
+              "name": "Sweet Corn",
+              "quantity": 20
+            },
+            {
+              "name": "Salsa",
+              "quantity": 20
+            }
+          ],
+          "history": "Quesadilla is a traditional Mexican dish filled with cheese and vegetables.",
+          "isVeg": true,
+          "isEventFood": true,
+          "price": 179,
+          "categoryId": "veg_starters",
+          "category": "Veg Starters",
+          "unitPrice": 179,
+          "totalPrice": 1790
+        }
+      ],
+      "dishTotal": 3580,
+      "extrasTotal": 0,
+      "decorTotal": 5000,
+      "totalAmount": 8580,
+      "createdAt": "2026-06-11T04:05:13.487Z",
+      "callHistory": [
+        "2026-06-11T05:09:37.481Z"
+      ]
+    },
+    {
+      "id": "cat_1781153920209",
+      "name": "Mohamed",
+      "mobile": "9361151067",
+      "email": "",
+      "guests": 10,
+      "eventDate": "2026-06-12",
+      "time": "20:00",
+      "slotGroup": "DI",
+      "addrDoorNo": "12",
+      "addrStreet": "GR Nagar",
+      "addrArea": "GR Nagar",
+      "addrLandmark": "",
+      "addrCity": "Madurai",
+      "addrDistrict": "Madurai",
+      "addrState": "Tamil Nadu",
+      "addrPincode": "625014",
+      "location": "12, GR Nagar, GR Nagar, Madurai, Madurai, Tamil Nadu, 625014",
+      "notes": "",
+      "decoration": "normal",
+      "cake": true,
+      "specialMention": false,
+      "specialMentionText": "",
+      "mic": false,
+      "projector": false,
+      "music": false,
+      "speaker": false,
+      "liveMusic": false,
+      "surpriseGift": false,
+      "specialNote": "",
+      "source": "Phone",
+      "status": "pending",
+      "date": "2026-06-12",
+      "items": [
+        {
+          "id": "prawn_clear_soup",
+          "name": "Prawn Clear Soup",
+          "image": "/assets/dish-assets/clear-soup/prawn-clear-soup.png",
+          "basePrice": 169,
+          "description": "Savory prawn broth",
+          "benefits": {
+            "calories": 190,
+            "protein": 16,
+            "fibre": 1,
+            "fat": 6
+          },
+          "ingredients": [
+            {
+              "name": "Prawn",
+              "quantity": 40
+            },
+            {
+              "name": "Garlic",
+              "quantity": 10
+            },
+            {
+              "name": "Pepper",
+              "quantity": 10
+            },
+            {
+              "name": "Spring Onion",
+              "quantity": 10
+            },
+            {
+              "name": "Salt",
+              "quantity": 10
+            },
+            {
+              "name": "Ginger",
+              "quantity": 10
+            }
+          ],
+          "history": "Seafood broths are common in coastal Asian cuisines.",
+          "isVeg": false,
+          "isEventFood": true,
+          "price": 169,
+          "categoryId": "clear_soup",
+          "category": "Clear Soup",
+          "unitPrice": 169,
+          "totalPrice": 1690
+        },
+        {
+          "id": "hunan_paneer",
+          "name": "Hunan Paneer",
+          "image": "/assets/dish-assets/appetizer/hunan.png",
+          "basePrice": 219,
+          "description": "Savoury and spicy sauce with mixed vegetables",
+          "benefits": {
+            "calories": 420,
+            "protein": 18,
+            "fibre": 3,
+            "fat": 16
+          },
+          "ingredients": [
+            {
+              "name": "Garlic",
+              "quantity": 10
+            },
+            {
+              "name": "Capsicum",
+              "quantity": 20
+            },
+            {
+              "name": "Soy Sauce",
+              "quantity": 10
+            },
+            {
+              "name": "Chilli Sauce",
+              "quantity": 10
+            },
+            {
+              "name": "Spring Onion",
+              "quantity": 10
+            },
+            {
+              "name": "Oil",
+              "quantity": 20
+            }
+          ],
+          "history": "Appetizer dishes are inspired by Indo‑Chinese and Asian cuisine, combining bold sauces, wok‑tossed cooking techniques and crispy textures popular in modern restaurant menus.",
+          "isVeg": true,
+          "isEventFood": true,
+          "price": 219,
+          "categoryId": "appetizer",
+          "category": "Appetizer",
+          "unitPrice": 219,
+          "totalPrice": 2190
+        },
+        {
+          "id": "hunan_chicken",
+          "name": "Hunan Chicken",
+          "image": "/assets/dish-assets/appetizer/hunan.png",
+          "basePrice": 249,
+          "description": "Savoury and spicy sauce with mixed vegetables",
+          "benefits": {
+            "calories": 420,
+            "protein": 18,
+            "fibre": 3,
+            "fat": 16
+          },
+          "ingredients": [
+            {
+              "name": "Garlic",
+              "quantity": 10
+            },
+            {
+              "name": "Capsicum",
+              "quantity": 20
+            },
+            {
+              "name": "Soy Sauce",
+              "quantity": 10
+            },
+            {
+              "name": "Chilli Sauce",
+              "quantity": 10
+            },
+            {
+              "name": "Spring Onion",
+              "quantity": 10
+            },
+            {
+              "name": "Oil",
+              "quantity": 20
+            }
+          ],
+          "history": "Appetizer dishes are inspired by Indo‑Chinese and Asian cuisine, combining bold sauces, wok‑tossed cooking techniques and crispy textures popular in modern restaurant menus.",
+          "isVeg": false,
+          "isEventFood": true,
+          "price": 249,
+          "categoryId": "appetizer",
+          "category": "Appetizer",
+          "unitPrice": 249,
+          "totalPrice": 2490
+        }
+      ],
+      "dishTotal": 6370,
+      "extrasTotal": 500,
+      "decorTotal": 1500,
+      "totalAmount": 8370,
+      "createdAt": "2026-06-11T04:58:40.209Z"
     }
   ],
   "events": [
@@ -178368,43 +179173,43 @@
         "--bg-surface": "#f2f2f2",
         "--text-primary": "#000000",
         "--text-secondary": "#3a3a3a",
-        "--color-red": "#12952e",
-        "--color-green": "#9512a8",
-        "--color-pale-red": "#e0ffe5",
-        "--color-pale-green": "#f8e0ff",
+        "--color-red": "#cc6a00",
+        "--color-green": "#0070cc",
+        "--color-pale-red": "#fff4d6",
+        "--color-pale-green": "#d6eeff",
         "--border-light": "rgba(0, 0, 0, 0.18)",
         "--btn-color": "rgb(210, 210, 210)",
-        "--bg-hover": "#8effa0",
-        "--shadow-card-red": "0 12px 30px rgba(18, 149, 46, 0.36), 0 6px 16px rgba(18, 149, 46, 0.24)",
-        "--shadow-card-red-hover": "0 20px 50px rgba(18, 149, 46, 0.50), 0 10px 24px rgba(18, 149, 46, 0.36)",
-        "--home-btn-filter": "brightness(0) invert(1) sepia(1) hue-rotate(133deg) saturate(392%) brightness(65%)",
-        "--edge-color-dark": "hsl(133deg 100% 16%)",
-        "--edge-color-light": "hsl(133deg 100% 32%)",
-        "--edge-color-green-dark": "hsl(292deg 100% 16%)",
-        "--edge-color-green-light": "hsl(292deg 100% 32%)"
+        "--bg-hover": "#ffe680",
+        "--shadow-card-red": "0 12px 30px rgba(204, 106, 0, 0.36), 0 6px 16px rgba(204, 106, 0, 0.24)",
+        "--shadow-card-red-hover": "0 20px 50px rgba(204, 106, 0, 0.50), 0 10px 24px rgba(204, 106, 0, 0.36)",
+        "--home-btn-filter": "brightness(0) invert(1) sepia(1) hue-rotate(31deg) saturate(500%) brightness(80%)",
+        "--edge-color-dark": "hsl(31deg 100% 16%)",
+        "--edge-color-light": "hsl(31deg 100% 32%)",
+        "--edge-color-green-dark": "hsl(207deg 100% 16%)",
+        "--edge-color-green-light": "hsl(207deg 100% 32%)"
       },
       "dark": {
         "--bg-main": "#080808",
         "--bg-surface": "#111111",
         "--text-primary": "#ffffff",
         "--text-secondary": "#c0c0c0",
-        "--color-red": "#1fdd52",
-        "--color-green": "#c41fdd",
-        "--color-pale-red": "#021808",
-        "--color-pale-green": "#260330",
+        "--color-red": "#ffaa00",
+        "--color-green": "#00aaff",
+        "--color-pale-red": "#2e1800",
+        "--color-pale-green": "#002038",
         "--border-light": "rgba(255, 255, 255, 0.18)",
         "--btn-color": "rgb(45, 45, 45)",
-        "--bg-hover": "#0d5e20",
-        "--shadow-card-red": "0 14px 36px rgba(31, 221, 82, 0.45), 0 8px 20px rgba(31, 221, 82, 0.32)",
-        "--shadow-card-red-hover": "0 22px 56px rgba(31, 221, 82, 0.60), 0 12px 28px rgba(31, 221, 82, 0.42)",
-        "--home-btn-filter": "brightness(0) invert(1) sepia(1) hue-rotate(136deg) saturate(377%) brightness(99%)",
-        "--edge-color-dark": "hsl(136deg 100% 16%)",
-        "--edge-color-light": "hsl(136deg 100% 32%)",
-        "--edge-color-green-dark": "hsl(292deg 100% 16%)",
-        "--edge-color-green-light": "hsl(292deg 100% 32%)"
+        "--bg-hover": "#7a3c00",
+        "--shadow-card-red": "0 14px 36px rgba(255, 170, 0, 0.45), 0 8px 20px rgba(255, 170, 0, 0.32)",
+        "--shadow-card-red-hover": "0 22px 56px rgba(255, 170, 0, 0.60), 0 12px 28px rgba(255, 170, 0, 0.42)",
+        "--home-btn-filter": "brightness(0) invert(1) sepia(1) hue-rotate(40deg) saturate(500%) brightness(100%)",
+        "--edge-color-dark": "hsl(40deg 100% 16%)",
+        "--edge-color-light": "hsl(40deg 100% 32%)",
+        "--edge-color-green-dark": "hsl(200deg 100% 16%)",
+        "--edge-color-green-light": "hsl(200deg 100% 32%)"
       },
-      "activePreset": "forest",
-      "updatedAt": "2026-06-08T14:46:05.701Z"
+      "activePreset": "amber",
+      "updatedAt": "2026-06-11T17:25:47.726Z"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json",
@@ -178472,30 +179277,30 @@
     }
   ],
   "kitchenMise": {
-    "2026-06-10": {
+    "2026-06-12": {
       "Arrangement": {
-        "staff": "Siva"
+        "staff": "Karthik"
       },
       "Organize": {
-        "staff": "Karthik"
+        "staff": "Siva"
       },
       "Veg Cutting": {
-        "staff": "Siva"
-      },
-      "Meat Cutting": {
         "staff": "Priya"
       },
-      "Floor": {
+      "Meat Cutting": {
         "staff": "Rahul"
       },
-      "Working Table": {
+      "Floor": {
         "staff": "Meena"
       },
-      "Sink": {
+      "Working Table": {
         "staff": "Karthik"
       },
-      "Vessel": {
+      "Sink": {
         "staff": "Siva"
+      },
+      "Vessel": {
+        "staff": "Priya"
       },
       "Range": {
         "staff": "Rahul"
@@ -178504,5 +179309,621 @@
         "staff": "Meena"
       }
     }
-  }
+  },
+  "combo_offers": [
+    {
+      "id": "offer_1",
+      "label": "Flat ₹200 OFF",
+      "type": "FLAT",
+      "value": 200,
+      "condition": {
+        "starter": "Masala Fries With Cheese Coated",
+        "starterPrice": 179,
+        "main": "Honey Glazed Chicken Steak",
+        "mainPrice": 399,
+        "beverages": "Espresso",
+        "beveragesPrice": 99
+      }
+    },
+    {
+      "id": "offer_2",
+      "label": "30% OFF",
+      "type": "PERCENT",
+      "value": 30,
+      "condition": {
+        "starter": "Chicken Popcorn",
+        "main": "Creamy Baked Chicken",
+        "starterPrice": 269,
+        "mainPrice": 379
+      }
+    },
+    {
+      "id": "offer_3",
+      "label": "Flat ₹150 OFF",
+      "type": "FLAT",
+      "value": 150,
+      "condition": {
+        "starter": "Antipasto Garlic Bread",
+        "main": "Corn Rice With Veggies In Cilantro Sauce",
+        "starterPrice": 129,
+        "mainPrice": 349
+      }
+    },
+    {
+      "id": "offer_4",
+      "label": "25% OFF",
+      "type": "PERCENT",
+      "value": 25,
+      "condition": {
+        "starter": "Paneer Tikka",
+        "main": "Cottage Cheese Shashlik",
+        "starterPrice": 249,
+        "mainPrice": 359
+      }
+    },
+    {
+      "id": "offer_5",
+      "label": "Flat ₹100 OFF",
+      "type": "FLAT",
+      "value": 100,
+      "condition": {
+        "starter": "Cheese Loaded Nachos With Salsa",
+        "main": "Chicken Parmigiana",
+        "starterPrice": 179,
+        "mainPrice": 369
+      }
+    },
+    {
+      "id": "offer_6",
+      "label": "20% OFF",
+      "type": "PERCENT",
+      "value": 20,
+      "condition": {
+        "starter": "Veg Quesadilla",
+        "main": "Tangy Crispy Chicken With Egg Fried Rice",
+        "starterPrice": 179,
+        "mainPrice": 369
+      }
+    },
+    {
+      "id": "offer_7",
+      "label": "Flat ₹250 OFF",
+      "type": "FLAT",
+      "value": 250,
+      "condition": {
+        "starter": "Chicken Wings",
+        "main": "Fish Steak",
+        "starterPrice": 0,
+        "mainPrice": 399
+      }
+    },
+    {
+      "id": "offer_8",
+      "label": "15% OFF",
+      "type": "PERCENT",
+      "value": 15,
+      "condition": {
+        "starter": "Cheese Balls Corn",
+        "main": "Corn Rice With Veggies In Cilantro Sauce",
+        "starterPrice": 199,
+        "mainPrice": 349
+      }
+    },
+    {
+      "id": "offer_9",
+      "label": "Flat ₹120 OFF",
+      "type": "FLAT",
+      "value": 120,
+      "condition": {
+        "starter": "Mushroom 65",
+        "main": "Cottage Cheese Shashlik",
+        "starterPrice": 129,
+        "mainPrice": 359
+      }
+    },
+    {
+      "id": "offer_10",
+      "label": "18% OFF",
+      "type": "PERCENT",
+      "value": 18,
+      "condition": {
+        "starter": "Paneer 65",
+        "main": "Chicken Parmigiana",
+        "starterPrice": 179,
+        "mainPrice": 369
+      }
+    },
+    {
+      "id": "offer_11",
+      "label": "Flat ₹180 OFF",
+      "type": "FLAT",
+      "value": 180,
+      "condition": {
+        "starter": "Chicken Tikka",
+        "main": "Honey Glazed Chicken Steak",
+        "starterPrice": 299,
+        "mainPrice": 399
+      }
+    },
+    {
+      "id": "offer_12",
+      "label": "22% OFF",
+      "type": "PERCENT",
+      "value": 22,
+      "condition": {
+        "starter": "Mushroom Tikka",
+        "main": "Corn Rice With Veggies In Cilantro Sauce",
+        "starterPrice": 249,
+        "mainPrice": 349
+      }
+    },
+    {
+      "id": "offer_13",
+      "label": "Flat ₹160 OFF",
+      "type": "FLAT",
+      "value": 160,
+      "condition": {
+        "starter": "Chicken Cheese Balls",
+        "main": "Creamy Baked Chicken",
+        "starterPrice": 249,
+        "mainPrice": 379
+      }
+    },
+    {
+      "id": "offer_14",
+      "label": "28% OFF",
+      "type": "PERCENT",
+      "value": 28,
+      "condition": {
+        "starter": "Chicken 65",
+        "main": "Tangy Crispy Chicken With Egg Fried Rice",
+        "starterPrice": 249,
+        "mainPrice": 369
+      }
+    },
+    {
+      "id": "offer_15",
+      "label": "Flat ₹140 OFF",
+      "type": "FLAT",
+      "value": 140,
+      "condition": {
+        "starter": "Fish Fingers",
+        "main": "Fish Steak",
+        "starterPrice": 0,
+        "mainPrice": 399
+      }
+    },
+    {
+      "id": "offer_16",
+      "label": "17% OFF",
+      "type": "PERCENT",
+      "value": 17,
+      "condition": {
+        "starter": "Grilled Chicken",
+        "main": "Chicken Parmigiana",
+        "starterPrice": 0,
+        "mainPrice": 369
+      }
+    },
+    {
+      "id": "offer_17",
+      "label": "Flat ₹130 OFF",
+      "type": "FLAT",
+      "value": 130,
+      "condition": {
+        "starter": "Spicy Chicken Strips",
+        "main": "Tangy Crispy Chicken With Egg Fried Rice",
+        "starterPrice": 0,
+        "mainPrice": 369
+      }
+    },
+    {
+      "id": "offer_18",
+      "label": "19% OFF",
+      "type": "PERCENT",
+      "value": 19,
+      "condition": {
+        "starter": "Crispy Chicken Breast",
+        "main": "Creamy Baked Chicken",
+        "starterPrice": 0,
+        "mainPrice": 379
+      }
+    },
+    {
+      "id": "offer_19",
+      "label": "Flat ₹210 OFF",
+      "type": "FLAT",
+      "value": 210,
+      "condition": {
+        "starter": "Prawn 65",
+        "main": "Fish Steak",
+        "starterPrice": 299,
+        "mainPrice": 399
+      }
+    },
+    {
+      "id": "offer_20",
+      "label": "16% OFF",
+      "type": "PERCENT",
+      "value": 16,
+      "condition": {
+        "starter": "Cheese Loaded Potato",
+        "main": "Corn Rice With Veggies In Cilantro Sauce",
+        "starterPrice": 179,
+        "mainPrice": 349
+      }
+    },
+    {
+      "id": "offer_21",
+      "label": "Flat ₹110 OFF",
+      "type": "FLAT",
+      "value": 110,
+      "condition": {
+        "starter": "Eight Treasures",
+        "main": "Cottage Cheese Shashlik",
+        "starterPrice": 179,
+        "mainPrice": 359
+      }
+    },
+    {
+      "id": "offer_22",
+      "label": "23% OFF",
+      "type": "PERCENT",
+      "value": 23,
+      "condition": {
+        "starter": "Hash Browns With Tartar Sauce",
+        "main": "Chicken Parmigiana",
+        "starterPrice": 179,
+        "mainPrice": 369
+      }
+    },
+    {
+      "id": "offer_23",
+      "label": "Flat ₹170 OFF",
+      "type": "FLAT",
+      "value": 170,
+      "condition": {
+        "starter": "Veg Quesadilla",
+        "main": "Honey Glazed Chicken Steak",
+        "starterPrice": 179,
+        "mainPrice": 399
+      }
+    },
+    {
+      "id": "offer_24",
+      "label": "21% OFF",
+      "type": "PERCENT",
+      "value": 21,
+      "condition": {
+        "starter": "Paneer Tikka",
+        "main": "Tangy Crispy Chicken With Egg Fried Rice",
+        "starterPrice": 249,
+        "mainPrice": 369
+      }
+    },
+    {
+      "id": "offer_25",
+      "label": "Flat ₹190 OFF",
+      "type": "FLAT",
+      "value": 190,
+      "condition": {
+        "starter": "Chicken Wings",
+        "main": "Creamy Baked Chicken",
+        "starterPrice": 0,
+        "mainPrice": 379
+      }
+    },
+    {
+      "id": "offer_26",
+      "label": "14% OFF",
+      "type": "PERCENT",
+      "value": 14,
+      "condition": {
+        "starter": "Masala Fries With Cheese Coated",
+        "main": "Fish Steak",
+        "starterPrice": 179,
+        "mainPrice": 399
+      }
+    },
+    {
+      "id": "offer_27",
+      "label": "Flat ₹220 OFF",
+      "type": "FLAT",
+      "value": 220,
+      "condition": {
+        "starter": "Chicken Popcorn",
+        "main": "Honey Glazed Chicken Steak",
+        "starterPrice": 269,
+        "mainPrice": 399
+      }
+    },
+    {
+      "id": "offer_28",
+      "label": "26% OFF",
+      "type": "PERCENT",
+      "value": 26,
+      "condition": {
+        "starter": "Chicken 65",
+        "main": "Chicken Parmigiana",
+        "starterPrice": 249,
+        "mainPrice": 369
+      }
+    },
+    {
+      "id": "offer_29",
+      "label": "Flat ₹125 OFF",
+      "type": "FLAT",
+      "value": 125,
+      "condition": {
+        "starter": "Mushroom 65",
+        "main": "Corn Rice With Veggies In Cilantro Sauce",
+        "starterPrice": 129,
+        "mainPrice": 349
+      }
+    },
+    {
+      "id": "offer_30",
+      "label": "24% OFF",
+      "type": "PERCENT",
+      "value": 24,
+      "condition": {
+        "starter": "Paneer 65",
+        "main": "Cottage Cheese Shashlik",
+        "starterPrice": 179,
+        "mainPrice": 359
+      }
+    },
+    {
+      "id": "offer_31",
+      "label": "Flat ₹155 OFF",
+      "type": "FLAT",
+      "value": 155,
+      "condition": {
+        "starter": "Cheese Balls Corn",
+        "main": "Tangy Crispy Chicken With Egg Fried Rice",
+        "starterPrice": 199,
+        "mainPrice": 369
+      }
+    },
+    {
+      "id": "offer_32",
+      "label": "18% OFF",
+      "type": "PERCENT",
+      "value": 18,
+      "condition": {
+        "starter": "Chicken Tikka",
+        "main": "Fish Steak",
+        "starterPrice": 299,
+        "mainPrice": 399
+      }
+    },
+    {
+      "id": "offer_33",
+      "label": "Flat ₹135 OFF",
+      "type": "FLAT",
+      "value": 135,
+      "condition": {
+        "starter": "Spicy Chicken Strips",
+        "main": "Chicken Parmigiana",
+        "starterPrice": 0,
+        "mainPrice": 369
+      }
+    },
+    {
+      "id": "offer_34",
+      "label": "27% OFF",
+      "type": "PERCENT",
+      "value": 27,
+      "condition": {
+        "starter": "Grilled Chicken",
+        "main": "Honey Glazed Chicken Steak",
+        "starterPrice": 0,
+        "mainPrice": 399
+      }
+    },
+    {
+      "id": "offer_35",
+      "label": "Flat ₹165 OFF",
+      "type": "FLAT",
+      "value": 165,
+      "condition": {
+        "starter": "Chicken Cheese Balls",
+        "main": "Creamy Baked Chicken",
+        "starterPrice": 249,
+        "mainPrice": 379
+      }
+    },
+    {
+      "id": "offer_36",
+      "label": "20% OFF",
+      "type": "PERCENT",
+      "value": 20,
+      "condition": {
+        "starter": "Fish Fingers",
+        "main": "Tangy Crispy Chicken With Egg Fried Rice",
+        "starterPrice": 0,
+        "mainPrice": 369
+      }
+    },
+    {
+      "id": "offer_37",
+      "label": "Flat ₹145 OFF",
+      "type": "FLAT",
+      "value": 145,
+      "condition": {
+        "starter": "Prawn 65",
+        "main": "Chicken Parmigiana",
+        "starterPrice": 299,
+        "mainPrice": 369
+      }
+    },
+    {
+      "id": "offer_38",
+      "label": "22% OFF",
+      "type": "PERCENT",
+      "value": 22,
+      "condition": {
+        "starter": "Chicken Wings",
+        "main": "Cottage Cheese Shashlik",
+        "starterPrice": 0,
+        "mainPrice": 359
+      }
+    },
+    {
+      "id": "offer_39",
+      "label": "Flat ₹175 OFF",
+      "type": "FLAT",
+      "value": 175,
+      "condition": {
+        "starter": "Chicken Popcorn",
+        "main": "Fish Steak",
+        "starterPrice": 269,
+        "mainPrice": 399
+      }
+    },
+    {
+      "id": "offer_40",
+      "label": "19% OFF",
+      "type": "PERCENT",
+      "value": 19,
+      "condition": {
+        "starter": "Paneer Tikka",
+        "main": "Creamy Baked Chicken",
+        "starterPrice": 249,
+        "mainPrice": 379
+      }
+    },
+    {
+      "id": "offer_41",
+      "label": "Flat ₹115 OFF",
+      "type": "FLAT",
+      "value": 115,
+      "condition": {
+        "starter": "Cheese Loaded Nachos With Salsa",
+        "main": "Corn Rice With Veggies In Cilantro Sauce",
+        "starterPrice": 179,
+        "mainPrice": 349
+      }
+    },
+    {
+      "id": "offer_42",
+      "label": "23% OFF",
+      "type": "PERCENT",
+      "value": 23,
+      "condition": {
+        "starter": "Veg Quesadilla",
+        "main": "Fish Steak",
+        "starterPrice": 179,
+        "mainPrice": 399
+      }
+    },
+    {
+      "id": "offer_43",
+      "label": "Flat ₹195 OFF",
+      "type": "FLAT",
+      "value": 195,
+      "condition": {
+        "starter": "Chicken 65",
+        "main": "Honey Glazed Chicken Steak",
+        "starterPrice": 249,
+        "mainPrice": 399
+      }
+    },
+    {
+      "id": "offer_44",
+      "label": "21% OFF",
+      "type": "PERCENT",
+      "value": 21,
+      "condition": {
+        "starter": "Mushroom Tikka",
+        "main": "Tangy Crispy Chicken With Egg Fried Rice",
+        "starterPrice": 249,
+        "mainPrice": 369
+      }
+    },
+    {
+      "id": "offer_45",
+      "label": "Flat ₹185 OFF",
+      "type": "FLAT",
+      "value": 185,
+      "condition": {
+        "starter": "Chicken Tikka",
+        "main": "Chicken Parmigiana",
+        "starterPrice": 299,
+        "mainPrice": 369
+      }
+    },
+    {
+      "id": "offer_46",
+      "label": "25% OFF",
+      "type": "PERCENT",
+      "value": 25,
+      "condition": {
+        "starter": "Grilled Chicken",
+        "main": "Fish Steak",
+        "starterPrice": 0,
+        "mainPrice": 399
+      }
+    },
+    {
+      "id": "offer_47",
+      "label": "Flat ₹205 OFF",
+      "type": "FLAT",
+      "value": 205,
+      "condition": {
+        "starter": "Chicken Wings",
+        "main": "Honey Glazed Chicken Steak",
+        "starterPrice": 0,
+        "mainPrice": 399
+      }
+    },
+    {
+      "id": "offer_48",
+      "label": "18% OFF",
+      "type": "PERCENT",
+      "value": 18,
+      "condition": {
+        "starter": "Paneer 65",
+        "main": "Creamy Baked Chicken",
+        "starterPrice": 179,
+        "mainPrice": 379
+      }
+    },
+    {
+      "id": "offer_49",
+      "label": "Flat ₹135 OFF",
+      "type": "FLAT",
+      "value": 135,
+      "condition": {
+        "starter": "Eight Treasures",
+        "main": "Chicken Parmigiana",
+        "starterPrice": 179,
+        "mainPrice": 369
+      }
+    },
+    {
+      "id": "offer_50",
+      "label": "20% OFF",
+      "type": "PERCENT",
+      "value": 20,
+      "condition": {
+        "starter": "Masala Fries With Cheese Coated",
+        "main": "Cottage Cheese Shashlik",
+        "starterPrice": 179,
+        "mainPrice": 359
+      }
+    },
+    {
+      "id": "offer_1781090524011_f3ecd",
+      "label": "Flat ₹20 OFF",
+      "type": "FLAT",
+      "value": 20,
+      "condition": {
+        "starter": "Garlic Bread With Minced Chicken",
+        "starterPrice": 169,
+        "beverages": "Regular Coffee",
+        "beveragesPrice": 49
+      }
+    }
+  ]
 }
