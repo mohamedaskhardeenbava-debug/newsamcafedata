@@ -1926,6 +1926,185 @@
               "createdAt": "2026-06-12T18:24:00.537Z"
             }
           ]
+        },
+        {
+          "id": "order_02103",
+          "userId": "user_9361151067",
+          "userName": "Askhar",
+          "mobile": "9361151067",
+          "mode": "take away",
+          "date": "2026-06-17",
+          "time": "11:08",
+          "createdAt": "2026-06-17T05:38:57.780Z",
+          "updatedAt": "2026-06-17T05:38:57.780Z",
+          "status": "placed",
+          "totalAmount": 359,
+          "totalWithGST": {
+            "subTotal": 359,
+            "cgst": 8.97,
+            "sgst": 8.97,
+            "total": 377
+          },
+          "items": [
+            {
+              "dishId": "cottage_cheese_shashlik",
+              "dishName": "Cottage Cheese Shashlik",
+              "categoryId": "main_course",
+              "quantity": 1,
+              "unitPrice": 359,
+              "totalPrice": 359,
+              "status": "placed",
+              "isCustomized": false,
+              "selectedSize": "regular",
+              "notes": "",
+              "ingredients": [
+                {
+                  "name": "Paneer",
+                  "quantity": 100,
+                  "pricePer100g": 0,
+                  "totalPrice": 0
+                },
+                {
+                  "name": "Bell Peppers",
+                  "quantity": 40,
+                  "pricePer100g": 0,
+                  "totalPrice": 0
+                },
+                {
+                  "name": "Onion",
+                  "quantity": 30,
+                  "pricePer100g": 0,
+                  "totalPrice": 0
+                },
+                {
+                  "name": "Pilaf Rice",
+                  "quantity": 120,
+                  "pricePer100g": 0,
+                  "totalPrice": 0
+                },
+                {
+                  "name": "Garlic Sauce",
+                  "quantity": 20,
+                  "pricePer100g": 0,
+                  "totalPrice": 0
+                },
+                {
+                  "name": "Butter",
+                  "quantity": 10,
+                  "pricePer100g": 0,
+                  "totalPrice": 0
+                }
+              ],
+              "createdAt": "2026-06-17T05:38:57.780Z"
+            }
+          ]
+        },
+        {
+          "id": "order_02104",
+          "userId": "user_9361151067",
+          "userName": "Askhar",
+          "mobile": "9361151067",
+          "mode": "take away",
+          "date": "2026-06-17",
+          "time": "11:09",
+          "createdAt": "2026-06-17T05:39:52.435Z",
+          "updatedAt": "2026-06-17T05:39:52.435Z",
+          "status": "placed",
+          "totalAmount": 99,
+          "totalWithGST": {
+            "subTotal": 99,
+            "cgst": 2.48,
+            "sgst": 2.48,
+            "total": 104
+          },
+          "items": [
+            {
+              "dishId": "two_scoop_ice_cream",
+              "dishName": "2 Scoop Of Any Ice Cream",
+              "categoryId": "ice_cream",
+              "quantity": 1,
+              "unitPrice": 99,
+              "totalPrice": 99,
+              "status": "placed",
+              "isCustomized": false,
+              "selectedSize": "single",
+              "notes": "",
+              "ingredients": [
+                {
+                  "name": "Ice Cream",
+                  "quantity": 80,
+                  "pricePer100g": 0,
+                  "totalPrice": 0
+                },
+                {
+                  "name": "Chocolate Syrup",
+                  "quantity": 20,
+                  "pricePer100g": 0,
+                  "totalPrice": 0
+                },
+                {
+                  "name": "Strawberry Syrup",
+                  "quantity": 20,
+                  "pricePer100g": 0,
+                  "totalPrice": 0
+                },
+                {
+                  "name": "Nuts",
+                  "quantity": 10,
+                  "pricePer100g": 0,
+                  "totalPrice": 0
+                },
+                {
+                  "name": "Cherry",
+                  "quantity": 10,
+                  "pricePer100g": 0,
+                  "totalPrice": 0
+                },
+                {
+                  "name": "Wafer",
+                  "quantity": 10,
+                  "pricePer100g": 0,
+                  "totalPrice": 0
+                }
+              ],
+              "createdAt": "2026-06-17T05:39:52.435Z"
+            }
+          ]
+        },
+        {
+          "id": "order_02105",
+          "userId": "user_9361151067",
+          "userName": "Askhar",
+          "mobile": "9361151067",
+          "mode": "take away",
+          "date": "2026-06-18",
+          "time": "11:45",
+          "createdAt": "2026-06-18T06:15:05.885Z",
+          "updatedAt": "2026-06-18T06:15:05.885Z",
+          "status": "placed",
+          "totalAmount": 497,
+          "totalWithGST": {
+            "subTotal": 497,
+            "cgst": 12.43,
+            "sgst": 12.43,
+            "total": 522
+          },
+          "items": [
+            {
+              "dishId": "combo_1781763304021",
+              "dishName": "Mushroom 65 + Cottage Cheese Shashlik + Americana",
+              "categoryId": "combo",
+              "quantity": 1,
+              "unitPrice": 497,
+              "totalPrice": 497,
+              "status": "placed",
+              "isCustomized": false,
+              "selectedSize": "regular",
+              "notes": "",
+              "ingredients": [],
+              "createdAt": "2026-06-18T06:15:05.885Z"
+            }
+          ]
         }
       ]
     },
@@ -12708,7 +12887,7 @@
         "wraps"
       ],
       "pricePer100g": 23,
-      "stockRemaining": 4.780000000000005,
+      "stockRemaining": 4.680000000000005,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -12738,7 +12917,7 @@
         "wraps"
       ],
       "pricePer100g": 24,
-      "stockRemaining": 7.87000000000001,
+      "stockRemaining": 7.86000000000001,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -12858,7 +13037,7 @@
         "wraps"
       ],
       "pricePer100g": 28,
-      "stockRemaining": 11.620000000000005,
+      "stockRemaining": 11.580000000000005,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -13038,7 +13217,7 @@
         "wraps"
       ],
       "pricePer100g": 35,
-      "stockRemaining": 19.77,
+      "stockRemaining": 19.74,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -13308,7 +13487,7 @@
         "wraps"
       ],
       "pricePer100g": 44,
-      "stockRemaining": 27.85999999999999,
+      "stockRemaining": 27.829999999999988,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -13427,7 +13606,7 @@
         "wraps"
       ],
       "pricePer100g": 48,
-      "stockRemaining": 6.850000000000001,
+      "stockRemaining": 6.820000000000001,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -13517,7 +13696,7 @@
         "wraps"
       ],
       "pricePer100g": 51,
-      "stockRemaining": 10.760000000000002,
+      "stockRemaining": 10.740000000000002,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -13547,7 +13726,7 @@
         "wraps"
       ],
       "pricePer100g": 52,
-      "stockRemaining": 9.930000000000003,
+      "stockRemaining": 9.770000000000003,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -14177,7 +14356,7 @@
         "wraps"
       ],
       "pricePer100g": 73,
-      "stockRemaining": 3.5200000000000005,
+      "stockRemaining": 3.4900000000000007,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -14297,7 +14476,7 @@
         "wraps"
       ],
       "pricePer100g": 77,
-      "stockRemaining": 11.305,
+      "stockRemaining": 11.265,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -14417,7 +14596,7 @@
         "wraps"
       ],
       "pricePer100g": 21,
-      "stockRemaining": 14.560000000000004,
+      "stockRemaining": 14.440000000000005,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -14477,7 +14656,7 @@
         "wraps"
       ],
       "pricePer100g": 23,
-      "stockRemaining": 17.08000000000001,
+      "stockRemaining": 17.06000000000001,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -14957,7 +15136,7 @@
         "wraps"
       ],
       "pricePer100g": 39,
-      "stockRemaining": 8.040000000000003,
+      "stockRemaining": 7.960000000000003,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -14987,7 +15166,7 @@
         "wraps"
       ],
       "pricePer100g": 40,
-      "stockRemaining": 9.340000000000005,
+      "stockRemaining": 9.300000000000006,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -15017,7 +15196,7 @@
         "wraps"
       ],
       "pricePer100g": 41,
-      "stockRemaining": 10.040000000000003,
+      "stockRemaining": 9.960000000000003,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -161873,6 +162052,329 @@
           "pickupAt": null
         }
       ]
+    },
+    {
+      "id": "order_02103",
+      "userId": "user_9361151067",
+      "userName": "Askhar",
+      "mobile": "9361151067",
+      "mode": "take away",
+      "date": "2026-06-17",
+      "time": "11:08",
+      "createdAt": "2026-06-17T05:38:57.780Z",
+      "updatedAt": "2026-06-17T05:38:57.780Z",
+      "status": "preparing",
+      "totalAmount": 359,
+      "totalWithGST": {
+        "subTotal": 359,
+        "cgst": 8.97,
+        "sgst": 8.97,
+        "total": 377
+      },
+      "items": [
+        {
+          "dishId": "cottage_cheese_shashlik",
+          "dishName": "Cottage Cheese Shashlik",
+          "categoryId": "main_course",
+          "quantity": 1,
+          "unitPrice": 359,
+          "totalPrice": 359,
+          "status": "preparing",
+          "isCustomized": false,
+          "selectedSize": "regular",
+          "notes": "",
+          "ingredients": [
+            {
+              "name": "Paneer",
+              "quantity": 100,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Bell Peppers",
+              "quantity": 40,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Onion",
+              "quantity": 30,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Pilaf Rice",
+              "quantity": 120,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Garlic Sauce",
+              "quantity": 20,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Butter",
+              "quantity": 10,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            }
+          ],
+          "createdAt": "2026-06-17T05:38:57.780Z",
+          "pickupAt": null
+        }
+      ]
+    },
+    {
+      "id": "order_02104",
+      "userId": "user_9361151067",
+      "userName": "Askhar",
+      "mobile": "9361151067",
+      "mode": "take away",
+      "date": "2026-06-17",
+      "time": "11:09",
+      "createdAt": "2026-06-17T05:39:52.435Z",
+      "updatedAt": "2026-06-17T05:39:52.435Z",
+      "status": "completed",
+      "totalAmount": 99,
+      "totalWithGST": {
+        "subTotal": 99,
+        "cgst": 2.48,
+        "sgst": 2.48,
+        "total": 104
+      },
+      "items": [
+        {
+          "dishId": "two_scoop_ice_cream",
+          "dishName": "2 Scoop Of Any Ice Cream",
+          "categoryId": "ice_cream",
+          "quantity": 1,
+          "unitPrice": 99,
+          "totalPrice": 99,
+          "status": "completed",
+          "isCustomized": false,
+          "selectedSize": "single",
+          "notes": "",
+          "ingredients": [
+            {
+              "name": "Ice Cream",
+              "quantity": 80,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Chocolate Syrup",
+              "quantity": 20,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Strawberry Syrup",
+              "quantity": 20,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Nuts",
+              "quantity": 10,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Cherry",
+              "quantity": 10,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Wafer",
+              "quantity": 10,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            }
+          ],
+          "createdAt": "2026-06-17T05:39:52.435Z",
+          "pickupAt": "2026-06-17T05:51:48.902Z",
+          "pickupStatus": "late"
+        }
+      ]
+    },
+    {
+      "id": "order_02105",
+      "userId": "user_9361151067",
+      "userName": "Askhar",
+      "mobile": "9361151067",
+      "mode": "take away",
+      "date": "2026-06-18",
+      "time": "11:45",
+      "createdAt": "2026-06-18T06:15:05.885Z",
+      "updatedAt": "2026-06-18T06:15:05.885Z",
+      "status": "preparing",
+      "totalAmount": 497,
+      "totalWithGST": {
+        "subTotal": 497,
+        "cgst": 12.43,
+        "sgst": 12.43,
+        "total": 522
+      },
+      "items": [
+        {
+          "dishId": "combo_1781763304021",
+          "dishName": "Mushroom 65 + Cottage Cheese Shashlik + Americana",
+          "categoryId": "combo",
+          "quantity": 1,
+          "unitPrice": 497,
+          "totalPrice": 497,
+          "status": "preparing",
+          "isCustomized": false,
+          "selectedSize": "regular",
+          "notes": "",
+          "ingredients": [],
+          "createdAt": "2026-06-18T06:15:05.885Z",
+          "pickupAt": null
+        }
+      ]
+    },
+    {
+      "id": "order_02106",
+      "userName": "Guest",
+      "mode": "take away",
+      "date": "2026-06-23",
+      "time": "22:15",
+      "createdAt": "2026-06-23T16:45:55.844Z",
+      "updatedAt": "2026-06-23T16:45:55.844Z",
+      "status": "preparing",
+      "totalAmount": 269,
+      "totalWithGST": {
+        "subTotal": 269,
+        "cgst": 6.73,
+        "sgst": 6.73,
+        "total": 282
+      },
+      "items": [
+        {
+          "dishId": "grilled_chicken_burger",
+          "dishName": "Grilled Chicken Burger",
+          "categoryId": "burger",
+          "quantity": 1,
+          "unitPrice": 269,
+          "totalPrice": 269,
+          "status": "preparing",
+          "isCustomized": false,
+          "selectedSize": "single",
+          "notes": "",
+          "ingredients": [
+            {
+              "name": "Peas",
+              "quantity": 20,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Veg Patty",
+              "quantity": 20,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Sweet Potato",
+              "quantity": 30,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Spinach",
+              "quantity": 30,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Salt",
+              "quantity": 30,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Olive Oil",
+              "quantity": 40,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            }
+          ],
+          "createdAt": "2026-06-23T16:45:55.844Z"
+        }
+      ]
+    },
+    {
+      "id": "order_02107",
+      "userName": "Guest",
+      "mode": "take away",
+      "date": "2026-06-23",
+      "time": "22:18",
+      "createdAt": "2026-06-23T16:48:13.380Z",
+      "updatedAt": "2026-06-23T16:48:13.380Z",
+      "status": "preparing",
+      "totalAmount": 1196,
+      "totalWithGST": {
+        "subTotal": 1196,
+        "cgst": 29.9,
+        "sgst": 29.9,
+        "total": 1256
+      },
+      "items": [
+        {
+          "dishId": "double_chicken_patty_burger",
+          "dishName": "Double Chicken Patty Burger",
+          "categoryId": "burger",
+          "quantity": 4,
+          "unitPrice": 299,
+          "totalPrice": 1196,
+          "status": "preparing",
+          "isCustomized": false,
+          "selectedSize": "single",
+          "notes": "",
+          "ingredients": [
+            {
+              "name": "Chicken",
+              "quantity": 10,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Coriander",
+              "quantity": 20,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Red Chilli Flakes",
+              "quantity": 20,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Chilli Powder",
+              "quantity": 10,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Rice",
+              "quantity": 40,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Chicken Mince",
+              "quantity": 30,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            }
+          ],
+          "createdAt": "2026-06-23T16:48:13.380Z"
+        }
+      ]
     }
   ],
   "staff": [
@@ -180125,6 +180627,26 @@
       "status": "pending",
       "source": "User App",
       "createdAt": "2026-06-11T06:16:10.228Z"
+    },
+    {
+      "id": "res_1781671814084",
+      "name": "Buwaneshwar",
+      "mobile": "9361151244",
+      "email": "",
+      "guests": 3,
+      "date": "2026-06-17",
+      "time": "10:45",
+      "slotGroup": "BR",
+      "tableNo": 2,
+      "tablePref": "Any",
+      "source": "Phone",
+      "inchargePerson": "Siva",
+      "notes": "",
+      "status": "pending",
+      "bookedDate": "2026-06-17",
+      "reservedDate": "2026-06-17",
+      "createdAt": "2026-06-17T04:50:14.084Z",
+      "tablePrefImage": null
     }
   ],
   "celebrations": [
