@@ -2699,7 +2699,8 @@
                   "name": "wheat bread",
                   "extraCharge": 20
                 }
-              ]
+              ],
+              "eventField": "no"
             },
             {
               "id": "cheese_balls_corn",
@@ -2741,7 +2742,8 @@
               ],
               "history": "Veg starters are inspired by popular global appetizers and Indian snack traditions.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "paneer_65",
@@ -2783,7 +2785,8 @@
               ],
               "history": "Paneer 65 originated as a vegetarian twist of the popular South Indian starter.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "mushroom_65",
@@ -2825,7 +2828,8 @@
               ],
               "history": "Mushroom 65 is a vegetarian variation of the iconic South Indian snack.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "paneer_tikka",
@@ -2867,7 +2871,8 @@
               ],
               "history": "Paneer tikka is a famous North Indian tandoori appetizer.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "mushroom_tikka",
@@ -2909,7 +2914,8 @@
               ],
               "history": "Mushroom tikka is a grilled vegetarian delicacy inspired by tandoori cooking.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "hash_browns",
@@ -2951,7 +2957,8 @@
               ],
               "history": "Hash browns are a classic crispy potato snack popular worldwide.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "cheese_loaded_nachos",
@@ -2993,7 +3000,8 @@
               ],
               "history": "Nachos originated in Mexican cuisine and became a popular snack worldwide.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "cheese_loaded_potato",
@@ -3035,7 +3043,8 @@
               ],
               "history": "Cheese loaded potatoes are inspired by baked potato dishes.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "masala_fries_cheese",
@@ -3077,7 +3086,8 @@
               ],
               "history": "Masala fries are an Indian twist on classic french fries.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "eight_treasures",
@@ -3119,7 +3129,8 @@
               ],
               "history": "Eight treasures is inspired by Chinese vegetable stir fry dishes.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "veg_quesadilla",
@@ -3161,7 +3172,8 @@
               ],
               "history": "Quesadilla is a traditional Mexican dish filled with cheese and vegetables.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             }
           ]
         },
@@ -3227,7 +3239,8 @@
               ],
               "history": "Non veg starters combine global appetizer styles with rich chicken flavors.",
               "isVeg": false,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "chicken_cheese_balls",
@@ -3269,7 +3282,8 @@
               ],
               "history": "Cheese balls are popular crispy snack starters across many cuisines.",
               "isVeg": false,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "crispy_fried_chicken_breast",
@@ -3311,7 +3325,8 @@
               ],
               "history": "Fried chicken is one of the most iconic crispy appetizers worldwide.",
               "isVeg": false,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "chicken_65",
@@ -3353,7 +3368,8 @@
               ],
               "history": "Chicken 65 originated in South India and became a famous spicy appetizer.",
               "isVeg": false,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "chicken_tikka",
@@ -3395,7 +3411,8 @@
               ],
               "history": "Chicken tikka is a classic Indian tandoori dish loved worldwide.",
               "isVeg": false,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "prawn_65",
@@ -3437,7 +3454,8 @@
               ],
               "history": "Prawn 65 is a seafood variation of the famous South Indian appetizer.",
               "isVeg": false,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "chicken_popcorn",
@@ -3479,7 +3497,8 @@
               ],
               "history": "Chicken popcorn is a popular fast-food style crispy snack.",
               "isVeg": false,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "chicken_lollipop",
@@ -3521,7 +3540,8 @@
               ],
               "history": "Chicken lollipop is an Indo-Chinese appetizer famous in Indian restaurants.",
               "isVeg": false,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "crispy_chicken_wings",
@@ -3563,7 +3583,8 @@
               ],
               "history": "Chicken wings became popular as crispy bar snacks worldwide.",
               "isVeg": false,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "devilled_eggs",
@@ -3605,7 +3626,8 @@
               ],
               "history": "Devilled eggs are a classic appetizer originating in European cuisine.",
               "isVeg": false,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "chicken_cheese_nachos",
@@ -3647,7 +3669,8 @@
               ],
               "history": "Nachos are a Mexican snack that became globally popular.",
               "isVeg": false,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "fish_n_chips",
@@ -3689,7 +3712,8 @@
               ],
               "history": "Fish and chips originated in the UK and became a global comfort food.",
               "isVeg": false,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             }
           ]
         }
@@ -3763,7 +3787,8 @@
               ],
               "history": "Clear soups are light broths prepared with vegetables and mild seasoning.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "sweetcorn_clear_soup",
@@ -3805,7 +3830,8 @@
               ],
               "history": "Sweet corn soups became popular in Indo-Chinese cuisine.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "mushroom_clear_soup",
@@ -3847,7 +3873,8 @@
               ],
               "history": "Mushroom broths are widely used in Asian soups.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "chicken_clear_soup",
@@ -3889,7 +3916,8 @@
               ],
               "history": "Chicken broth is one of the most traditional soup bases worldwide.",
               "isVeg": false,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "prawn_clear_soup",
@@ -3931,7 +3959,8 @@
               ],
               "history": "Seafood broths are common in coastal Asian cuisines.",
               "isVeg": false,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             }
           ]
         },
@@ -3997,7 +4026,8 @@
               ],
               "history": "Hot and sour soup is a popular Indo-Chinese soup known for its spicy and tangy flavor.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "sweetcorn_hot_sour_soup",
@@ -4039,7 +4069,8 @@
               ],
               "history": "Hot and sour soup variations are widely served in Indo-Chinese restaurants.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "mushroom_hot_sour_soup",
@@ -4081,7 +4112,8 @@
               ],
               "history": "Mushroom versions of hot and sour soup add an earthy flavor to the broth.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "chicken_hot_sour_soup",
@@ -4123,7 +4155,8 @@
               ],
               "history": "Chicken hot and sour soup is a protein-rich variation of the classic soup.",
               "isVeg": false,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "prawn_hot_sour_soup",
@@ -4165,7 +4198,8 @@
               ],
               "history": "Seafood versions of hot and sour soup are popular in coastal Asian cuisines.",
               "isVeg": false,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "veg_manchow_soup",
@@ -4207,7 +4241,8 @@
               ],
               "history": "Manchow soup is an Indo-Chinese creation famous for its crispy noodle topping.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "sweetcorn_manchow_soup",
@@ -4249,7 +4284,8 @@
               ],
               "history": "Sweet corn versions of Manchow soup add natural sweetness to the spicy broth.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "mushroom_manchow_soup",
@@ -4291,7 +4327,8 @@
               ],
               "history": "Manchow soup is one of the most loved Indo-Chinese soups in restaurants.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "chicken_manchow_soup",
@@ -4333,7 +4370,8 @@
               ],
               "history": "Chicken Manchow soup is a hearty variation of the Indo-Chinese classic.",
               "isVeg": false,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "prawn_manchow_soup",
@@ -4375,7 +4413,8 @@
               ],
               "history": "Seafood Manchow soups are popular Indo-Chinese restaurant specialties.",
               "isVeg": false,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             }
           ]
         },
@@ -4441,7 +4480,8 @@
               ],
               "history": "Cream soups originated in European cuisine and became popular worldwide for their smooth texture.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "cream_of_mushroom",
@@ -4483,7 +4523,8 @@
               ],
               "history": "Cream of mushroom soup is one of the most famous classic cream soups.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "cream_of_broccoli",
@@ -4525,7 +4566,8 @@
               ],
               "history": "Broccoli cream soup is known for its nutritious and creamy taste.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "cream_of_spinach",
@@ -4567,7 +4609,8 @@
               ],
               "history": "Spinach cream soup is a classic nutritious soup popular in many cuisines.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "cream_of_peas",
@@ -4609,7 +4652,8 @@
               ],
               "history": "Cream of peas soup is known for its mild sweetness and smooth texture.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "cream_of_chicken",
@@ -4651,7 +4695,8 @@
               ],
               "history": "Cream of chicken soup is a comforting classic loved around the world.",
               "isVeg": false,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "cream_of_chicken_mushroom",
@@ -4693,7 +4738,8 @@
               ],
               "history": "Chicken and mushroom cream soup combines rich protein with earthy mushroom flavors.",
               "isVeg": false,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "gazpacho",
@@ -4735,7 +4781,8 @@
               ],
               "history": "Gazpacho is a traditional Spanish cold soup made with blended fresh vegetables and olive oil, known for its refreshing taste in warm climates.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             }
           ]
         }
@@ -6501,7 +6548,9 @@
               ],
               "history": "Cold coffee became popular in modern cafés as a refreshing chilled beverage made with coffee, milk and ice.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no",
+              "isComboFood": true
             },
             {
               "id": "cold_coffee_chocolate",
@@ -6543,7 +6592,8 @@
               ],
               "history": "Chocolate cold coffee is a modern café favourite combining chilled coffee with rich chocolate flavour.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "cold_coffee_nutella",
@@ -6585,7 +6635,8 @@
               ],
               "history": "Nutella cold coffee blends coffee with the famous hazelnut chocolate spread for a richer taste.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "cold_coffee_brownie",
@@ -6627,7 +6678,8 @@
               ],
               "history": "Brownie cold coffee is a dessert-style beverage popular in modern cafés.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "irish_cream_coffee",
@@ -6669,7 +6721,8 @@
               ],
               "history": "Irish cream coffee drinks became popular in cafés for their smooth creamy flavor.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             }
           ]
         },
@@ -6730,7 +6783,8 @@
               ],
               "history": "Iced tea is a refreshing chilled beverage made by cooling brewed tea with citrus and sweeteners.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "hibiscus_iced_tea",
@@ -6772,7 +6826,8 @@
               ],
               "history": "Hibiscus iced tea is known for its bright red color and refreshing tart flavor.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "butterfly_pea_iced_tea",
@@ -6814,7 +6869,8 @@
               ],
               "history": "Butterfly pea tea is famous for its natural blue color and antioxidant properties.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "iced_butterfly_pea_latte",
@@ -6856,7 +6912,8 @@
               ],
               "history": "Butterfly pea latte combines herbal tea with milk for a colorful café beverage.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             }
           ]
         },
@@ -6917,7 +6974,9 @@
               ],
               "history": "Hot coffee is one of the most widely consumed beverages worldwide.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no",
+              "isComboFood": true
             },
             {
               "id": "espresso",
@@ -6959,7 +7018,8 @@
               ],
               "history": "Espresso originated in Italy and became the base for many coffee drinks.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "double_espresso",
@@ -7001,7 +7061,8 @@
               ],
               "history": "Double espresso offers a stronger coffee experience with two espresso shots.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "americana",
@@ -7043,7 +7104,8 @@
               ],
               "history": "Americano became popular when espresso was diluted with hot water.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "irish_coffee",
@@ -7085,7 +7147,8 @@
               ],
               "history": "Irish coffee blends coffee with creamy flavoring to create a rich beverage.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             }
           ]
         },
@@ -7146,7 +7209,8 @@
               ],
               "history": "Milk tea is a staple beverage in many cultures.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "masala_tea",
@@ -7188,7 +7252,8 @@
               ],
               "history": "Masala tea originated in India with spices added to black tea.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "black_tea",
@@ -7230,7 +7295,8 @@
               ],
               "history": "Herbal teas are caffeine-free beverages known for their soothing qualities.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "lemon_tea",
@@ -7272,7 +7338,8 @@
               ],
               "history": "Herbal teas are caffeine-free beverages known for their soothing qualities.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "green_tea",
@@ -7314,7 +7381,8 @@
               ],
               "history": "Herbal teas are caffeine-free beverages known for their soothing qualities.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "mint_tea",
@@ -7356,7 +7424,8 @@
               ],
               "history": "Herbal teas are caffeine-free beverages known for their soothing qualities.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "honey_tea",
@@ -7398,7 +7467,8 @@
               ],
               "history": "Herbal teas are caffeine-free beverages known for their soothing qualities.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "butterfly_pea_tea",
@@ -7440,7 +7510,8 @@
               ],
               "history": "Floral teas are brewed using aromatic flowers known for calming effects.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "hibiscus_tea",
@@ -7482,7 +7553,8 @@
               ],
               "history": "Floral teas are brewed using aromatic flowers known for calming effects.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "chamomile_tea",
@@ -7524,7 +7596,8 @@
               ],
               "history": "Floral teas are brewed using aromatic flowers known for calming effects.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "lavender_tea",
@@ -7566,7 +7639,8 @@
               ],
               "history": "Floral teas are brewed using aromatic flowers known for calming effects.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "rosemary_tea",
@@ -7608,7 +7682,8 @@
               ],
               "history": "Floral teas are brewed using aromatic flowers known for calming effects.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "pink_tea",
@@ -7650,7 +7725,8 @@
               ],
               "history": "Exotic teas combine traditional tea styles from different cultures.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "gulkand_tea",
@@ -7692,7 +7768,8 @@
               ],
               "history": "Exotic teas combine traditional tea styles from different cultures.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "kahwa_tea",
@@ -7734,7 +7811,8 @@
               ],
               "history": "Exotic teas combine traditional tea styles from different cultures.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             }
           ]
         },
@@ -7795,7 +7873,8 @@
               ],
               "history": "Brazilian lemonade is a refreshing citrus drink popular in tropical regions.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "saffron_n_rose",
@@ -7837,7 +7916,8 @@
               ],
               "history": "Rose flavored drinks have been popular in Middle Eastern and South Asian cuisine.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "mimosa",
@@ -7879,7 +7959,8 @@
               ],
               "history": "Mimosa style drinks combine citrus flavors for refreshing beverages.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "pina_colada",
@@ -7921,7 +8002,8 @@
               ],
               "history": "Piña colada is a famous tropical drink known for its coconut and pineapple flavor.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "cranberry_sunrise",
@@ -7963,7 +8045,8 @@
               ],
               "history": "Piña colada is a famous tropical drink known for its coconut and pineapple flavor.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "blue_hawaiian",
@@ -8005,7 +8088,8 @@
               ],
               "history": "Piña colada is a famous tropical drink known for its coconut and pineapple flavor.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "rainbow_paradise",
@@ -8047,7 +8131,8 @@
               ],
               "history": "Piña colada is a famous tropical drink known for its coconut and pineapple flavor.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "miami_vice_city",
@@ -8089,7 +8174,8 @@
               ],
               "history": "Piña colada is a famous tropical drink known for its coconut and pineapple flavor.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "lychee_refreshner",
@@ -8131,7 +8217,8 @@
               ],
               "history": "Piña colada is a famous tropical drink known for its coconut and pineapple flavor.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             }
           ]
         },
@@ -8192,7 +8279,9 @@
               ],
               "history": "Milkshakes became popular in American diners as sweet blended milk drinks.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no",
+              "isComboFood": true
             },
             {
               "id": "strawberry_milkshake",
@@ -8234,7 +8323,8 @@
               ],
               "history": "Milkshakes became popular in American diners as sweet blended milk drinks.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "blueberry_milkshake",
@@ -8276,7 +8366,8 @@
               ],
               "history": "Milkshakes became popular in American diners as sweet blended milk drinks.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "mango_milkshake",
@@ -8318,7 +8409,8 @@
               ],
               "history": "Milkshakes became popular in American diners as sweet blended milk drinks.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "pineapple_milkshake",
@@ -8360,7 +8452,8 @@
               ],
               "history": "Milkshakes became popular in American diners as sweet blended milk drinks.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "butterscotch_milkshake",
@@ -8402,7 +8495,8 @@
               ],
               "history": "Milkshakes became popular in American diners as sweet blended milk drinks.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "chocolate_milkshake",
@@ -8444,7 +8538,8 @@
               ],
               "history": "Milkshakes became popular in American diners as sweet blended milk drinks.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "the_breakfast",
@@ -8486,7 +8581,8 @@
               ],
               "history": "Dessert milkshakes combine sweets and coffee flavors.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "birthday_cake",
@@ -8528,7 +8624,8 @@
               ],
               "history": "Birthday cake shakes replicate the flavor of celebration cakes.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "thick_chocolate_shake",
@@ -8570,7 +8667,8 @@
               ],
               "history": "Chocolate milkshakes remain one of the most popular café drinks.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             }
           ]
         }
@@ -8993,7 +9091,9 @@
               ],
               "history": "Chocolate mousse originated in France as a light whipped chocolate dessert.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no",
+              "isComboFood": true
             },
             {
               "id": "panna_cotta",
@@ -9035,7 +9135,8 @@
               ],
               "history": "Panna cotta is a traditional Italian dessert known for its silky texture.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "chocolate_brownie",
@@ -9077,7 +9178,9 @@
               ],
               "history": "Chocolate brownies are classic American baked desserts.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no",
+              "isComboFood": true
             },
             {
               "id": "creme_caramel",
@@ -9119,7 +9222,8 @@
               ],
               "history": "Crème caramel is a classic European custard dessert topped with caramel.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "orange_curd_tart",
@@ -9161,7 +9265,8 @@
               ],
               "history": "Fruit curd tarts are popular European pastries.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "carrot_cake",
@@ -9203,7 +9308,8 @@
               ],
               "history": "Carrot cake became popular as a sweet dessert with natural vegetable sweetness.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "cheesecake",
@@ -9245,7 +9351,9 @@
               ],
               "history": "Cheesecake is one of the most famous desserts worldwide.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no",
+              "isComboFood": true
             },
             {
               "id": "chocolate_lava_mug_cake",
@@ -9287,7 +9395,8 @@
               ],
               "history": "Chocolate lava cakes became popular for their molten chocolate center.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "fruit_custard",
@@ -9329,7 +9438,8 @@
               ],
               "history": "Fruit custard is a classic chilled dessert enjoyed in many households.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             }
           ]
         },
@@ -9390,7 +9500,8 @@
               ],
               "history": "Banana split is one of the most famous ice cream desserts.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "rose_falooda",
@@ -9432,7 +9543,8 @@
               ],
               "history": "Falooda is a popular South Asian dessert drink.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "dry_fruit_falooda",
@@ -9474,7 +9586,8 @@
               ],
               "history": "Dry fruit falooda is a rich variation of the traditional falooda dessert.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "two_scoop_ice_cream",
@@ -9516,7 +9629,8 @@
               ],
               "history": "Simple scoop desserts remain café favorites worldwide.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             }
           ]
         }
@@ -9567,7 +9681,8 @@
           ],
           "history": "Pizza dishes originated from popular street-style and traditional recipes. Over time, they have been refined to suit modern tastes while retaining their original character.",
           "isVeg": true,
-          "isEventFood": true
+          "isEventFood": true,
+          "isComboFood": true
         },
         {
           "id": "corn_and_cheese_pizza",
@@ -9609,7 +9724,8 @@
           ],
           "history": "Pizza dishes originated from popular street-style and traditional recipes. Over time, they have been refined to suit modern tastes while retaining their original character.",
           "isVeg": true,
-          "isEventFood": true
+          "isEventFood": true,
+          "isComboFood": true
         },
         {
           "id": "garden_fresh_pizza",
@@ -9777,7 +9893,8 @@
           ],
           "history": "Pizza dishes originated from traditional street-style recipes.",
           "isVeg": true,
-          "isEventFood": false
+          "isEventFood": false,
+          "isComboFood": true
         },
         {
           "id": "chicken_tikka_pizza",
@@ -10137,7 +10254,8 @@
           ],
           "history": "Burger dishes originated from popular street-style recipes.",
           "isVeg": true,
-          "isEventFood": true
+          "isEventFood": true,
+          "isComboFood": true
         },
         {
           "id": "paneer_burger",
@@ -10221,7 +10339,8 @@
           ],
           "history": "Burger dishes originated from popular street-style recipes.",
           "isVeg": false,
-          "isEventFood": true
+          "isEventFood": true,
+          "isComboFood": true
         },
         {
           "id": "grilled_chicken_burger",
@@ -11510,7 +11629,9 @@
               ],
               "history": "Vegetable sandwiches are a staple café snack worldwide.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no",
+              "isComboFood": true
             },
             {
               "id": "nutella_sandwich",
@@ -11540,7 +11661,8 @@
               ],
               "history": "Sweet sandwiches with Nutella became popular in cafés and dessert shops.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "paneer_sandwich",
@@ -11570,7 +11692,8 @@
               ],
               "history": "Paneer sandwiches combine Indian flavors with Western sandwich style.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "egg_sandwich",
@@ -11600,7 +11723,8 @@
               ],
               "history": "Egg sandwiches are one of the most classic breakfast dishes.",
               "isVeg": false,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "chicken_sandwich",
@@ -11630,7 +11754,9 @@
               ],
               "history": "Chicken sandwiches are popular in cafés and fast food chains.",
               "isVeg": false,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no",
+              "isComboFood": true
             },
             {
               "id": "fried_chicken_sandwich",
@@ -11660,7 +11786,8 @@
               ],
               "history": "Fried chicken sandwiches became famous through American fast food culture.",
               "isVeg": false,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             }
           ]
         },
@@ -11721,7 +11848,8 @@
               ],
               "history": "Vegetable wraps became popular as a quick café snack combining fresh vegetables and sauces.",
               "isVeg": true,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "chicken_wrap",
@@ -11763,7 +11891,8 @@
               ],
               "history": "Chicken wraps are a global fast-casual favorite known for their protein-rich filling.",
               "isVeg": false,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "seafood_wrap",
@@ -11805,7 +11934,8 @@
               ],
               "history": "Seafood wraps combine coastal flavors with street-style wrap preparation.",
               "isVeg": false,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             }
           ]
         },
@@ -11866,7 +11996,8 @@
               ],
               "history": "Burritos originated in Mexican cuisine and are known for their rich fillings wrapped in tortillas.",
               "isVeg": true,
-              "isEventFood": false
+              "isEventFood": false,
+              "eventField": "no"
             },
             {
               "id": "chicken_burrito",
@@ -11908,7 +12039,8 @@
               ],
               "history": "Chicken burritos are widely loved for their hearty protein-packed filling.",
               "isVeg": false,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             },
             {
               "id": "seafood_burrito",
@@ -11950,7 +12082,8 @@
               ],
               "history": "Seafood burritos combine Mexican wrapping style with coastal seafood flavors.",
               "isVeg": false,
-              "isEventFood": true
+              "isEventFood": true,
+              "eventField": "no"
             }
           ]
         }
@@ -12842,6 +12975,40 @@
           "isEventFood": false
         }
       ]
+    },
+    {
+      "id": "cat_biriyani_1784827730112_whvav",
+      "name": "Biriyani",
+      "image": "data:image/png;base64,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",
+      "sizes": [],
+      "subCategories": [],
+      "dishes": [
+        {
+          "id": "cat_biriyani_1784827730112_whvav_1784827780551",
+          "categoryId": "cat_biriyani_1784827730112_whvav",
+          "name": "Chicken Biriyani",
+          "image": "data:image/png;base64,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",
+          "isVeg": false,
+          "isEventFood": false,
+          "isComboFood": false,
+          "basePrice": 2,
+          "description": "2",
+          "benefits": {
+            "calories": 1,
+            "protein": 1,
+            "fibre": 1,
+            "fat": 1
+          },
+          "ingredients": [
+            {
+              "name": "Basil",
+              "quantity": "10",
+              "calories": 0
+            }
+          ],
+          "variants": []
+        }
+      ]
     }
   ],
   "ingredients": [
@@ -12893,7 +13060,7 @@
         "wraps"
       ],
       "pricePer100g": 23,
-      "stockRemaining": 4.680000000000005,
+      "stockRemaining": 4.620000000000005,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -12923,7 +13090,7 @@
         "wraps"
       ],
       "pricePer100g": 24,
-      "stockRemaining": 7.8400000000000105,
+      "stockRemaining": 7.8000000000000105,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -13043,7 +13210,7 @@
         "wraps"
       ],
       "pricePer100g": 28,
-      "stockRemaining": 11.540000000000006,
+      "stockRemaining": 11.520000000000007,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -13073,7 +13240,7 @@
         "wraps"
       ],
       "pricePer100g": 29,
-      "stockRemaining": 13.400000000000004,
+      "stockRemaining": 13.280000000000005,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -13253,7 +13420,7 @@
         "wraps"
       ],
       "pricePer100g": 36,
-      "stockRemaining": 19.98999999999997,
+      "stockRemaining": 19.94999999999997,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -13373,7 +13540,7 @@
         "wraps"
       ],
       "pricePer100g": 40,
-      "stockRemaining": 24.720000000000006,
+      "stockRemaining": 24.660000000000007,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -13493,7 +13660,7 @@
         "wraps"
       ],
       "pricePer100g": 44,
-      "stockRemaining": 27.759999999999987,
+      "stockRemaining": 27.639999999999986,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -13582,7 +13749,7 @@
         "wraps"
       ],
       "pricePer100g": 47,
-      "stockRemaining": 3.839999999999999,
+      "stockRemaining": 3.639999999999999,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -13642,7 +13809,7 @@
         "wraps"
       ],
       "pricePer100g": 49,
-      "stockRemaining": 8.810000000000004,
+      "stockRemaining": 8.750000000000004,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -13702,7 +13869,7 @@
         "wraps"
       ],
       "pricePer100g": 51,
-      "stockRemaining": 10.740000000000002,
+      "stockRemaining": 10.680000000000001,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -13732,7 +13899,7 @@
         "wraps"
       ],
       "pricePer100g": 52,
-      "stockRemaining": 9.610000000000003,
+      "stockRemaining": 9.530000000000003,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -13792,7 +13959,7 @@
         "wraps"
       ],
       "pricePer100g": 54,
-      "stockRemaining": 13.750000000000002,
+      "stockRemaining": 13.730000000000002,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -14122,7 +14289,7 @@
         "wraps"
       ],
       "pricePer100g": 65,
-      "stockRemaining": 23.62,
+      "stockRemaining": 23.57,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -14152,7 +14319,7 @@
         "wraps"
       ],
       "pricePer100g": 66,
-      "stockRemaining": 24.360000000000003,
+      "stockRemaining": 24.300000000000004,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -14272,7 +14439,7 @@
         "wraps"
       ],
       "pricePer100g": 70,
-      "stockRemaining": 4.860000000000002,
+      "stockRemaining": 4.830000000000002,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -14362,7 +14529,7 @@
         "wraps"
       ],
       "pricePer100g": 73,
-      "stockRemaining": 3.4700000000000006,
+      "stockRemaining": 3.4300000000000006,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -14602,7 +14769,7 @@
         "wraps"
       ],
       "pricePer100g": 21,
-      "stockRemaining": 14.320000000000004,
+      "stockRemaining": 14.260000000000003,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -14662,7 +14829,7 @@
         "wraps"
       ],
       "pricePer100g": 23,
-      "stockRemaining": 16.98000000000001,
+      "stockRemaining": 16.900000000000013,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -14812,7 +14979,7 @@
         "wraps"
       ],
       "pricePer100g": 28,
-      "stockRemaining": 22.859999999999996,
+      "stockRemaining": 22.829999999999995,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -15142,7 +15309,7 @@
         "wraps"
       ],
       "pricePer100g": 39,
-      "stockRemaining": 7.880000000000003,
+      "stockRemaining": 7.8400000000000025,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -15172,7 +15339,7 @@
         "wraps"
       ],
       "pricePer100g": 40,
-      "stockRemaining": 9.260000000000007,
+      "stockRemaining": 9.240000000000007,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -15202,7 +15369,7 @@
         "wraps"
       ],
       "pricePer100g": 41,
-      "stockRemaining": 9.880000000000004,
+      "stockRemaining": 9.840000000000005,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -15262,7 +15429,7 @@
         "wraps"
       ],
       "pricePer100g": 43,
-      "stockRemaining": 11.870000000000005,
+      "stockRemaining": 11.810000000000004,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -15292,7 +15459,7 @@
         "wraps"
       ],
       "pricePer100g": 44,
-      "stockRemaining": 13.370000000000006,
+      "stockRemaining": 13.310000000000006,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -15473,7 +15640,7 @@
         "iced_tea"
       ],
       "pricePer100g": 45,
-      "stockRemaining": 8.91000000000001,
+      "stockRemaining": 8.83000000000001,
       "stockMin": 5,
       "stockMax": 30,
       "nutritionPer100g": {
@@ -160697,9 +160864,11 @@
       "totalAmount": 6097,
       "totalWithGST": {
         "subTotal": 6097,
+        "discountPercent": 0,
+        "discountAmount": 0,
         "cgst": 152.43,
         "sgst": 152.43,
-        "total": 6402
+        "total": 6401.86
       },
       "items": [
         {
@@ -160752,7 +160921,9 @@
             }
           ],
           "createdAt": "2026-06-12T18:32:54.602Z",
-          "pickupAt": null
+          "pickupAt": null,
+          "billAssignment": 1,
+          "price": 109
         },
         {
           "dishId": "corn_and_cheese_pizza",
@@ -160804,7 +160975,9 @@
             }
           ],
           "createdAt": "2026-06-12T18:32:54.602Z",
-          "pickupAt": null
+          "pickupAt": null,
+          "billAssignment": 2,
+          "price": 129
         },
         {
           "dishId": "garden_fresh_pizza",
@@ -160856,7 +161029,9 @@
             }
           ],
           "createdAt": "2026-06-12T18:32:54.602Z",
-          "pickupAt": null
+          "pickupAt": null,
+          "billAssignment": 4,
+          "price": 199
         },
         {
           "dishId": "triple_cheese_pizza",
@@ -160908,7 +161083,9 @@
             }
           ],
           "createdAt": "2026-06-12T18:32:54.602Z",
-          "pickupAt": null
+          "pickupAt": null,
+          "billAssignment": 1,
+          "price": 199
         },
         {
           "dishId": "mushroom_white_sauce_pizza",
@@ -160960,7 +161137,9 @@
             }
           ],
           "createdAt": "2026-06-12T18:32:54.602Z",
-          "pickupAt": null
+          "pickupAt": null,
+          "billAssignment": 2,
+          "price": 249
         },
         {
           "dishId": "buffalo_chicken_pizza",
@@ -161012,7 +161191,9 @@
             }
           ],
           "createdAt": "2026-06-12T18:32:54.602Z",
-          "pickupAt": null
+          "pickupAt": null,
+          "billAssignment": 3,
+          "price": 329
         },
         {
           "dishId": "peri_peri_chicken_pizza",
@@ -161064,7 +161245,9 @@
             }
           ],
           "createdAt": "2026-06-12T18:32:54.602Z",
-          "pickupAt": null
+          "pickupAt": null,
+          "billAssignment": 3,
+          "price": 329
         },
         {
           "dishId": "bbq_chicken_pizza",
@@ -161116,7 +161299,9 @@
             }
           ],
           "createdAt": "2026-06-12T18:32:54.602Z",
-          "pickupAt": null
+          "pickupAt": null,
+          "billAssignment": 1,
+          "price": 329
         },
         {
           "dishId": "chicken_tikka_pizza",
@@ -161168,7 +161353,9 @@
             }
           ],
           "createdAt": "2026-06-12T18:32:54.602Z",
-          "pickupAt": null
+          "pickupAt": null,
+          "billAssignment": 1,
+          "price": 329
         },
         {
           "dishId": "paneer_tikka_pizza",
@@ -161220,7 +161407,9 @@
             }
           ],
           "createdAt": "2026-06-12T18:32:54.602Z",
-          "pickupAt": null
+          "pickupAt": null,
+          "billAssignment": 3,
+          "price": 309
         },
         {
           "dishId": "ultimate_chicken_pizza",
@@ -161272,7 +161461,9 @@
             }
           ],
           "createdAt": "2026-06-12T18:32:54.602Z",
-          "pickupAt": null
+          "pickupAt": null,
+          "billAssignment": 4,
+          "price": 359
         },
         {
           "dishId": "meat_lovers_pizza",
@@ -161324,7 +161515,9 @@
             }
           ],
           "createdAt": "2026-06-12T18:32:54.602Z",
-          "pickupAt": null
+          "pickupAt": null,
+          "billAssignment": 4,
+          "price": 359
         },
         {
           "dishId": "chicken_salami_pizza",
@@ -161376,9 +161569,13 @@
             }
           ],
           "createdAt": "2026-06-12T18:32:54.602Z",
-          "pickupAt": null
+          "pickupAt": null,
+          "billAssignment": 4,
+          "price": 359
         }
-      ]
+      ],
+      "splitType": "bill",
+      "splitBillCount": 4
     },
     {
       "id": "order_02095",
@@ -162769,6 +162966,361 @@
             }
           ],
           "createdAt": "2026-07-16T15:35:10.452Z",
+          "pickupAt": null
+        }
+      ]
+    },
+    {
+      "id": "order_02112",
+      "userName": "Guest",
+      "mode": "take away",
+      "date": "2026-07-23",
+      "time": "22:47",
+      "createdAt": "2026-07-23T17:17:18.593Z",
+      "updatedAt": "2026-07-23T17:17:18.593Z",
+      "status": "preparing",
+      "totalAmount": 438,
+      "totalWithGST": {
+        "subTotal": 438,
+        "cgst": 10.95,
+        "sgst": 10.95,
+        "total": 460
+      },
+      "items": [
+        {
+          "dishId": "paneer_burger",
+          "dishName": "Paneer Burger",
+          "categoryId": "burger",
+          "quantity": 2,
+          "unitPrice": 219,
+          "totalPrice": 438,
+          "status": "preparing",
+          "isCustomized": false,
+          "selectedSize": "single",
+          "notes": "",
+          "ingredients": [
+            {
+              "name": "Mustard",
+              "quantity": 30,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Brown Rice",
+              "quantity": 10,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Garam Masala",
+              "quantity": 30,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Mozzarella Cheese",
+              "quantity": 40,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Potato",
+              "quantity": 40,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Veg Patty",
+              "quantity": 40,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            }
+          ],
+          "createdAt": "2026-07-23T17:17:18.593Z",
+          "pickupAt": null
+        }
+      ]
+    },
+    {
+      "id": "order_02113",
+      "userName": "Guest",
+      "mode": "take away",
+      "date": "2026-07-23",
+      "time": "22:50",
+      "createdAt": "2026-07-23T17:20:49.723Z",
+      "updatedAt": "2026-07-23T17:20:49.723Z",
+      "status": "preparing",
+      "totalAmount": 538,
+      "totalWithGST": {
+        "subTotal": 538,
+        "cgst": 13.45,
+        "sgst": 13.45,
+        "total": 565
+      },
+      "items": [
+        {
+          "dishId": "crispy_chicken_burger",
+          "dishName": "Crispy Chicken Burger",
+          "categoryId": "burger",
+          "quantity": 2,
+          "unitPrice": 269,
+          "totalPrice": 538,
+          "status": "preparing",
+          "isCustomized": false,
+          "selectedSize": "single",
+          "notes": "",
+          "ingredients": [
+            {
+              "name": "Chicken",
+              "quantity": 10,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Coriander",
+              "quantity": 20,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Red Chilli Flakes",
+              "quantity": 20,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Chilli Powder",
+              "quantity": 10,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Rice",
+              "quantity": 40,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Chicken Mince",
+              "quantity": 30,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            }
+          ],
+          "createdAt": "2026-07-23T17:20:49.723Z",
+          "pickupAt": null
+        }
+      ]
+    },
+    {
+      "id": "order_02114",
+      "userName": "Guest",
+      "mode": "take away",
+      "date": "2026-07-23",
+      "time": "22:51",
+      "createdAt": "2026-07-23T17:21:27.469Z",
+      "updatedAt": "2026-07-23T17:21:27.469Z",
+      "status": "preparing",
+      "totalAmount": 597,
+      "totalWithGST": {
+        "subTotal": 597,
+        "cgst": 14.93,
+        "sgst": 14.93,
+        "total": 627
+      },
+      "items": [
+        {
+          "dishId": "garden_fresh_pizza",
+          "dishName": "Garden Fresh Pizza",
+          "categoryId": "pizza",
+          "quantity": 3,
+          "unitPrice": 199,
+          "totalPrice": 597,
+          "status": "preparing",
+          "isCustomized": false,
+          "selectedSize": "regular",
+          "notes": "",
+          "ingredients": [
+            {
+              "name": "Parsley",
+              "quantity": 10,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Pizza Base",
+              "quantity": 10,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Beef",
+              "quantity": 40,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Turmeric",
+              "quantity": 20,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Jalapeno",
+              "quantity": 20,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Paneer",
+              "quantity": 20,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            }
+          ],
+          "createdAt": "2026-07-23T17:21:27.469Z",
+          "pickupAt": null
+        }
+      ]
+    },
+    {
+      "id": "order_02115",
+      "userName": "Guest",
+      "mode": "take away",
+      "date": "2026-07-23",
+      "time": "22:52",
+      "createdAt": "2026-07-23T17:22:12.678Z",
+      "updatedAt": "2026-07-23T17:22:12.678Z",
+      "status": "preparing",
+      "totalAmount": 458,
+      "totalWithGST": {
+        "subTotal": 458,
+        "cgst": 11.45,
+        "sgst": 11.45,
+        "total": 481
+      },
+      "items": [
+        {
+          "dishId": "veg_russian_salad",
+          "dishName": "Veg Russian Salad",
+          "categoryId": "salad",
+          "quantity": 2,
+          "unitPrice": 229,
+          "totalPrice": 458,
+          "status": "preparing",
+          "isCustomized": false,
+          "selectedSize": "regular",
+          "notes": "",
+          "ingredients": [
+            {
+              "name": "Potato",
+              "quantity": 60,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Peas",
+              "quantity": 30,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Carrot",
+              "quantity": 30,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Mayonnaise",
+              "quantity": 25,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Sweet Corn",
+              "quantity": 20,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Cucumber",
+              "quantity": 20,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            }
+          ],
+          "createdAt": "2026-07-23T17:22:12.678Z",
+          "pickupAt": null
+        }
+      ]
+    },
+    {
+      "id": "order_02116",
+      "userName": "Guest",
+      "mode": "take away",
+      "date": "2026-07-23",
+      "time": "22:52",
+      "createdAt": "2026-07-23T17:22:24.097Z",
+      "updatedAt": "2026-07-23T17:22:24.097Z",
+      "status": "preparing",
+      "totalAmount": 596,
+      "totalWithGST": {
+        "subTotal": 596,
+        "cgst": 14.9,
+        "sgst": 14.9,
+        "total": 626
+      },
+      "items": [
+        {
+          "dishId": "cream_of_spinach",
+          "dishName": "Cream Of Spinach",
+          "categoryId": "cream_soup",
+          "quantity": 4,
+          "unitPrice": 149,
+          "totalPrice": 596,
+          "status": "preparing",
+          "isCustomized": false,
+          "selectedSize": "cup",
+          "notes": "",
+          "ingredients": [
+            {
+              "name": "Spinach",
+              "quantity": 30,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Fresh Cream",
+              "quantity": 20,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Butter",
+              "quantity": 10,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Garlic",
+              "quantity": 10,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Pepper",
+              "quantity": 10,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            },
+            {
+              "name": "Salt",
+              "quantity": 10,
+              "pricePer100g": 0,
+              "totalPrice": 0
+            }
+          ],
+          "createdAt": "2026-07-23T17:22:24.097Z",
           "pickupAt": null
         }
       ]
@@ -183247,7 +183799,10 @@
         13,
         14,
         15,
-        16
+        16,
+        17,
+        18,
+        19
       ]
     }
   ],
@@ -183855,618 +184410,94 @@
   },
   "combo_offers": [
     {
-      "id": "offer_1",
-      "label": "Flat ₹200 OFF",
-      "type": "FLAT",
-      "value": 200,
-      "condition": {
-        "starter": "Masala Fries With Cheese Coated",
-        "starterPrice": 179,
-        "main": "Honey Glazed Chicken Steak",
-        "mainPrice": 399,
-        "beverages": "Espresso",
-        "beveragesPrice": 99
-      }
-    },
-    {
-      "id": "offer_2",
-      "label": "30% OFF",
-      "type": "PERCENT",
-      "value": 30,
-      "condition": {
-        "starter": "Chicken Popcorn",
-        "main": "Creamy Baked Chicken",
-        "starterPrice": 269,
-        "mainPrice": 379
-      }
-    },
-    {
-      "id": "offer_3",
-      "label": "Flat ₹150 OFF",
-      "type": "FLAT",
-      "value": 150,
-      "condition": {
-        "starter": "Antipasto Garlic Bread",
-        "main": "Corn Rice With Veggies In Cilantro Sauce",
-        "starterPrice": 129,
-        "mainPrice": 349
-      }
-    },
-    {
-      "id": "offer_4",
-      "label": "25% OFF",
-      "type": "PERCENT",
-      "value": 25,
-      "condition": {
-        "starter": "Paneer Tikka",
-        "main": "Cottage Cheese Shashlik",
-        "starterPrice": 249,
-        "mainPrice": 359
-      }
-    },
-    {
-      "id": "offer_5",
-      "label": "Flat ₹100 OFF",
-      "type": "FLAT",
-      "value": 100,
-      "condition": {
-        "starter": "Cheese Loaded Nachos With Salsa",
-        "main": "Chicken Parmigiana",
-        "starterPrice": 179,
-        "mainPrice": 369
-      }
-    },
-    {
-      "id": "offer_6",
+      "id": "offer_combo_1",
       "label": "20% OFF",
       "type": "PERCENT",
       "value": 20,
       "condition": {
-        "starter": "Veg Quesadilla",
-        "main": "Tangy Crispy Chicken With Egg Fried Rice",
-        "starterPrice": 179,
-        "mainPrice": 369
+        "dishes": "Margherita Pizza",
+        "dishesPrice": 109,
+        "desserts": "Chocolate Mousse",
+        "dessertsPrice": 219,
+        "beverages": "Cold Coffee Classic",
+        "beveragesPrice": 149
       }
     },
     {
-      "id": "offer_7",
-      "label": "Flat ₹250 OFF",
+      "id": "offer_combo_2",
+      "label": "Flat ₹80 OFF",
       "type": "FLAT",
-      "value": 250,
+      "value": 80,
       "condition": {
-        "starter": "Chicken Wings",
-        "main": "Fish Steak",
-        "starterPrice": 0,
-        "mainPrice": 399
+        "dishes": "Corn And Cheese Pizza",
+        "dishesPrice": 129,
+        "desserts": "Chocolate Brownie",
+        "dessertsPrice": 199
       }
     },
     {
-      "id": "offer_8",
+      "id": "offer_combo_3",
       "label": "15% OFF",
       "type": "PERCENT",
       "value": 15,
       "condition": {
-        "starter": "Cheese Balls Corn",
-        "main": "Corn Rice With Veggies In Cilantro Sauce",
-        "starterPrice": 199,
-        "mainPrice": 349
+        "dishes": "Paneer Tikka Pizza",
+        "dishesPrice": 309,
+        "desserts": "Cheesecake",
+        "dessertsPrice": 199
       }
     },
     {
-      "id": "offer_9",
-      "label": "Flat ₹120 OFF",
+      "id": "offer_combo_4",
+      "label": "Flat ₹50 OFF",
       "type": "FLAT",
-      "value": 120,
+      "value": 50,
       "condition": {
-        "starter": "Mushroom 65",
-        "main": "Cottage Cheese Shashlik",
-        "starterPrice": 129,
-        "mainPrice": 359
+        "dishes": "Veg Delight Burger",
+        "dishesPrice": 179,
+        "beverages": "Regular Coffee",
+        "beveragesPrice": 49
       }
     },
     {
-      "id": "offer_10",
-      "label": "18% OFF",
-      "type": "PERCENT",
-      "value": 18,
-      "condition": {
-        "starter": "Paneer 65",
-        "main": "Chicken Parmigiana",
-        "starterPrice": 179,
-        "mainPrice": 369
-      }
-    },
-    {
-      "id": "offer_11",
-      "label": "Flat ₹180 OFF",
-      "type": "FLAT",
-      "value": 180,
-      "condition": {
-        "starter": "Chicken Tikka",
-        "main": "Honey Glazed Chicken Steak",
-        "starterPrice": 299,
-        "mainPrice": 399
-      }
-    },
-    {
-      "id": "offer_12",
-      "label": "22% OFF",
-      "type": "PERCENT",
-      "value": 22,
-      "condition": {
-        "starter": "Mushroom Tikka",
-        "main": "Corn Rice With Veggies In Cilantro Sauce",
-        "starterPrice": 249,
-        "mainPrice": 349
-      }
-    },
-    {
-      "id": "offer_13",
-      "label": "Flat ₹160 OFF",
-      "type": "FLAT",
-      "value": 160,
-      "condition": {
-        "starter": "Chicken Cheese Balls",
-        "main": "Creamy Baked Chicken",
-        "starterPrice": 249,
-        "mainPrice": 379
-      }
-    },
-    {
-      "id": "offer_14",
-      "label": "28% OFF",
-      "type": "PERCENT",
-      "value": 28,
-      "condition": {
-        "starter": "Chicken 65",
-        "main": "Tangy Crispy Chicken With Egg Fried Rice",
-        "starterPrice": 249,
-        "mainPrice": 369
-      }
-    },
-    {
-      "id": "offer_15",
-      "label": "Flat ₹140 OFF",
-      "type": "FLAT",
-      "value": 140,
-      "condition": {
-        "starter": "Fish Fingers",
-        "main": "Fish Steak",
-        "starterPrice": 0,
-        "mainPrice": 399
-      }
-    },
-    {
-      "id": "offer_16",
-      "label": "17% OFF",
-      "type": "PERCENT",
-      "value": 17,
-      "condition": {
-        "starter": "Grilled Chicken",
-        "main": "Chicken Parmigiana",
-        "starterPrice": 0,
-        "mainPrice": 369
-      }
-    },
-    {
-      "id": "offer_17",
-      "label": "Flat ₹130 OFF",
-      "type": "FLAT",
-      "value": 130,
-      "condition": {
-        "starter": "Spicy Chicken Strips",
-        "main": "Tangy Crispy Chicken With Egg Fried Rice",
-        "starterPrice": 0,
-        "mainPrice": 369
-      }
-    },
-    {
-      "id": "offer_18",
-      "label": "19% OFF",
-      "type": "PERCENT",
-      "value": 19,
-      "condition": {
-        "starter": "Crispy Chicken Breast",
-        "main": "Creamy Baked Chicken",
-        "starterPrice": 0,
-        "mainPrice": 379
-      }
-    },
-    {
-      "id": "offer_19",
-      "label": "Flat ₹210 OFF",
-      "type": "FLAT",
-      "value": 210,
-      "condition": {
-        "starter": "Prawn 65",
-        "main": "Fish Steak",
-        "starterPrice": 299,
-        "mainPrice": 399
-      }
-    },
-    {
-      "id": "offer_20",
-      "label": "16% OFF",
-      "type": "PERCENT",
-      "value": 16,
-      "condition": {
-        "starter": "Cheese Loaded Potato",
-        "main": "Corn Rice With Veggies In Cilantro Sauce",
-        "starterPrice": 179,
-        "mainPrice": 349
-      }
-    },
-    {
-      "id": "offer_21",
-      "label": "Flat ₹110 OFF",
-      "type": "FLAT",
-      "value": 110,
-      "condition": {
-        "starter": "Eight Treasures",
-        "main": "Cottage Cheese Shashlik",
-        "starterPrice": 179,
-        "mainPrice": 359
-      }
-    },
-    {
-      "id": "offer_22",
-      "label": "23% OFF",
-      "type": "PERCENT",
-      "value": 23,
-      "condition": {
-        "starter": "Hash Browns With Tartar Sauce",
-        "main": "Chicken Parmigiana",
-        "starterPrice": 179,
-        "mainPrice": 369
-      }
-    },
-    {
-      "id": "offer_23",
-      "label": "Flat ₹170 OFF",
-      "type": "FLAT",
-      "value": 170,
-      "condition": {
-        "starter": "Veg Quesadilla",
-        "main": "Honey Glazed Chicken Steak",
-        "starterPrice": 179,
-        "mainPrice": 399
-      }
-    },
-    {
-      "id": "offer_24",
-      "label": "21% OFF",
-      "type": "PERCENT",
-      "value": 21,
-      "condition": {
-        "starter": "Paneer Tikka",
-        "main": "Tangy Crispy Chicken With Egg Fried Rice",
-        "starterPrice": 249,
-        "mainPrice": 369
-      }
-    },
-    {
-      "id": "offer_25",
-      "label": "Flat ₹190 OFF",
-      "type": "FLAT",
-      "value": 190,
-      "condition": {
-        "starter": "Chicken Wings",
-        "main": "Creamy Baked Chicken",
-        "starterPrice": 0,
-        "mainPrice": 379
-      }
-    },
-    {
-      "id": "offer_26",
-      "label": "14% OFF",
-      "type": "PERCENT",
-      "value": 14,
-      "condition": {
-        "starter": "Masala Fries With Cheese Coated",
-        "main": "Fish Steak",
-        "starterPrice": 179,
-        "mainPrice": 399
-      }
-    },
-    {
-      "id": "offer_27",
-      "label": "Flat ₹220 OFF",
-      "type": "FLAT",
-      "value": 220,
-      "condition": {
-        "starter": "Chicken Popcorn",
-        "main": "Honey Glazed Chicken Steak",
-        "starterPrice": 269,
-        "mainPrice": 399
-      }
-    },
-    {
-      "id": "offer_28",
-      "label": "26% OFF",
-      "type": "PERCENT",
-      "value": 26,
-      "condition": {
-        "starter": "Chicken 65",
-        "main": "Chicken Parmigiana",
-        "starterPrice": 249,
-        "mainPrice": 369
-      }
-    },
-    {
-      "id": "offer_29",
-      "label": "Flat ₹125 OFF",
-      "type": "FLAT",
-      "value": 125,
-      "condition": {
-        "starter": "Mushroom 65",
-        "main": "Corn Rice With Veggies In Cilantro Sauce",
-        "starterPrice": 129,
-        "mainPrice": 349
-      }
-    },
-    {
-      "id": "offer_30",
-      "label": "24% OFF",
-      "type": "PERCENT",
-      "value": 24,
-      "condition": {
-        "starter": "Paneer 65",
-        "main": "Cottage Cheese Shashlik",
-        "starterPrice": 179,
-        "mainPrice": 359
-      }
-    },
-    {
-      "id": "offer_31",
-      "label": "Flat ₹155 OFF",
-      "type": "FLAT",
-      "value": 155,
-      "condition": {
-        "starter": "Cheese Balls Corn",
-        "main": "Tangy Crispy Chicken With Egg Fried Rice",
-        "starterPrice": 199,
-        "mainPrice": 369
-      }
-    },
-    {
-      "id": "offer_32",
-      "label": "18% OFF",
-      "type": "PERCENT",
-      "value": 18,
-      "condition": {
-        "starter": "Chicken Tikka",
-        "main": "Fish Steak",
-        "starterPrice": 299,
-        "mainPrice": 399
-      }
-    },
-    {
-      "id": "offer_33",
-      "label": "Flat ₹135 OFF",
-      "type": "FLAT",
-      "value": 135,
-      "condition": {
-        "starter": "Spicy Chicken Strips",
-        "main": "Chicken Parmigiana",
-        "starterPrice": 0,
-        "mainPrice": 369
-      }
-    },
-    {
-      "id": "offer_34",
-      "label": "27% OFF",
-      "type": "PERCENT",
-      "value": 27,
-      "condition": {
-        "starter": "Grilled Chicken",
-        "main": "Honey Glazed Chicken Steak",
-        "starterPrice": 0,
-        "mainPrice": 399
-      }
-    },
-    {
-      "id": "offer_35",
-      "label": "Flat ₹165 OFF",
-      "type": "FLAT",
-      "value": 165,
-      "condition": {
-        "starter": "Chicken Cheese Balls",
-        "main": "Creamy Baked Chicken",
-        "starterPrice": 249,
-        "mainPrice": 379
-      }
-    },
-    {
-      "id": "offer_36",
-      "label": "20% OFF",
-      "type": "PERCENT",
-      "value": 20,
-      "condition": {
-        "starter": "Fish Fingers",
-        "main": "Tangy Crispy Chicken With Egg Fried Rice",
-        "starterPrice": 0,
-        "mainPrice": 369
-      }
-    },
-    {
-      "id": "offer_37",
-      "label": "Flat ₹145 OFF",
-      "type": "FLAT",
-      "value": 145,
-      "condition": {
-        "starter": "Prawn 65",
-        "main": "Chicken Parmigiana",
-        "starterPrice": 299,
-        "mainPrice": 369
-      }
-    },
-    {
-      "id": "offer_38",
-      "label": "22% OFF",
-      "type": "PERCENT",
-      "value": 22,
-      "condition": {
-        "starter": "Chicken Wings",
-        "main": "Cottage Cheese Shashlik",
-        "starterPrice": 0,
-        "mainPrice": 359
-      }
-    },
-    {
-      "id": "offer_39",
-      "label": "Flat ₹175 OFF",
-      "type": "FLAT",
-      "value": 175,
-      "condition": {
-        "starter": "Chicken Popcorn",
-        "main": "Fish Steak",
-        "starterPrice": 269,
-        "mainPrice": 399
-      }
-    },
-    {
-      "id": "offer_40",
-      "label": "19% OFF",
-      "type": "PERCENT",
-      "value": 19,
-      "condition": {
-        "starter": "Paneer Tikka",
-        "main": "Creamy Baked Chicken",
-        "starterPrice": 249,
-        "mainPrice": 379
-      }
-    },
-    {
-      "id": "offer_41",
-      "label": "Flat ₹115 OFF",
-      "type": "FLAT",
-      "value": 115,
-      "condition": {
-        "starter": "Cheese Loaded Nachos With Salsa",
-        "main": "Corn Rice With Veggies In Cilantro Sauce",
-        "starterPrice": 179,
-        "mainPrice": 349
-      }
-    },
-    {
-      "id": "offer_42",
-      "label": "23% OFF",
-      "type": "PERCENT",
-      "value": 23,
-      "condition": {
-        "starter": "Veg Quesadilla",
-        "main": "Fish Steak",
-        "starterPrice": 179,
-        "mainPrice": 399
-      }
-    },
-    {
-      "id": "offer_43",
-      "label": "Flat ₹195 OFF",
-      "type": "FLAT",
-      "value": 195,
-      "condition": {
-        "starter": "Chicken 65",
-        "main": "Honey Glazed Chicken Steak",
-        "starterPrice": 249,
-        "mainPrice": 399
-      }
-    },
-    {
-      "id": "offer_44",
-      "label": "21% OFF",
-      "type": "PERCENT",
-      "value": 21,
-      "condition": {
-        "starter": "Mushroom Tikka",
-        "main": "Tangy Crispy Chicken With Egg Fried Rice",
-        "starterPrice": 249,
-        "mainPrice": 369
-      }
-    },
-    {
-      "id": "offer_45",
-      "label": "Flat ₹185 OFF",
-      "type": "FLAT",
-      "value": 185,
-      "condition": {
-        "starter": "Chicken Tikka",
-        "main": "Chicken Parmigiana",
-        "starterPrice": 299,
-        "mainPrice": 369
-      }
-    },
-    {
-      "id": "offer_46",
+      "id": "offer_combo_5",
       "label": "25% OFF",
       "type": "PERCENT",
       "value": 25,
       "condition": {
-        "starter": "Grilled Chicken",
-        "main": "Fish Steak",
-        "starterPrice": 0,
-        "mainPrice": 399
-      }
-    },
-    {
-      "id": "offer_47",
-      "label": "Flat ₹205 OFF",
-      "type": "FLAT",
-      "value": 205,
-      "condition": {
-        "starter": "Chicken Wings",
-        "main": "Honey Glazed Chicken Steak",
-        "starterPrice": 0,
-        "mainPrice": 399
-      }
-    },
-    {
-      "id": "offer_48",
-      "label": "18% OFF",
-      "type": "PERCENT",
-      "value": 18,
-      "condition": {
-        "starter": "Paneer 65",
-        "main": "Creamy Baked Chicken",
-        "starterPrice": 179,
-        "mainPrice": 379
-      }
-    },
-    {
-      "id": "offer_49",
-      "label": "Flat ₹135 OFF",
-      "type": "FLAT",
-      "value": 135,
-      "condition": {
-        "starter": "Eight Treasures",
-        "main": "Chicken Parmigiana",
-        "starterPrice": 179,
-        "mainPrice": 369
-      }
-    },
-    {
-      "id": "offer_50",
-      "label": "20% OFF",
-      "type": "PERCENT",
-      "value": 20,
-      "condition": {
-        "starter": "Masala Fries With Cheese Coated",
-        "main": "Cottage Cheese Shashlik",
-        "starterPrice": 179,
-        "mainPrice": 359
-      }
-    },
-    {
-      "id": "offer_1781090524011_f3ecd",
-      "label": "Flat ₹20 OFF",
-      "type": "FLAT",
-      "value": 20,
-      "condition": {
-        "starter": "Garlic Bread With Minced Chicken",
-        "starterPrice": 169,
-        "beverages": "Regular Coffee",
-        "beveragesPrice": 49
+        "dishes": "Classic Chicken Burger",
+        "dishesPrice": 249,
+        "beverages": "Vanilla Milkshake",
+        "beveragesPrice": 149
       }
     }
-  ]
+  ],
+  "comboSectionConfig": {
+    "id": 1,
+    "sections": [
+      {
+        "key": "dishes",
+        "label": "Dishes",
+        "categoryIds": [
+          "pizza",
+          "burger",
+          "sandwichs"
+        ]
+      },
+      {
+        "key": "desserts",
+        "label": "Desserts",
+        "categoryIds": [
+          "desserts"
+        ]
+      },
+      {
+        "key": "beverages",
+        "label": "Beverages",
+        "categoryIds": [
+          "beverages"
+        ]
+      }
+    ]
+  }
 }
